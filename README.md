@@ -1,5 +1,4 @@
 ## Wikibase Stakeholder Group
-=========================================
 
 Using [Jekyll](https://jekyllrb.com/) + [Just the Docs theme](https://pmarsceill.github.io/just-the-docs/)
 
