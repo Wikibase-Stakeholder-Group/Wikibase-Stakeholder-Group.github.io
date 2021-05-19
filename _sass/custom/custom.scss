@@ -6,3 +6,7 @@
 .side-bar {
   background: none;
 }
+
+.main-content ol > li ol li::before {
+  content: counter(sub-counter,decimal);
+}
