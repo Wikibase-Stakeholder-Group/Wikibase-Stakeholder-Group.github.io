@@ -29,8 +29,8 @@ url: "https://wikibase-stakeholder-group.github.io" # the base hostname & protoc
 permalink: :name
 
 search_enabled: true
-
-
+search.rel_url: false
+search.heading_level: 3
 
 
 
