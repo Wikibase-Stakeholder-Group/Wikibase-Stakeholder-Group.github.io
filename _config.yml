@@ -30,7 +30,7 @@ permalink: :name
 
 search_enabled: true
 search.rel_url: false
-search.heading_level: 3
+search.heading_level: 4
 
 
 
