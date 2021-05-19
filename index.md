@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+# Wikibase Stakeholder Group
