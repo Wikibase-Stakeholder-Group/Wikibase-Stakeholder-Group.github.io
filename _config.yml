@@ -27,7 +27,7 @@ url: "https://wikibase-stakeholder-group.github.io/" # the base hostname & proto
 
 # Site settings
 
-permalink: :name:output_ext
+permalink: :name
 
 search_enabled: true
 
