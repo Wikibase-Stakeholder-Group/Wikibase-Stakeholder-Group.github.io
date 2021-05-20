@@ -50,15 +50,6 @@ All lists in alphabetical order
 
 ---
 
-<img src="assets/logos/professional-wiki.svg" alt="Professional.Wiki" style="height: 2em;">
-{: .float-right .ml-6}
-
-### Professional.Wiki
-
-[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
-
----
-
 <img src="assets/logos/rhizome.svg" alt="Rhizome" style="height: 1.6em;">
 {: .float-right .ml-6}
 
@@ -75,6 +66,15 @@ All lists in alphabetical order
 ### WESO Research Group
 
 [WESO](https://www.weso.es/) is a research group at the University of Oviedo founded in 2004 with a focus on semantic web, education and technology transfer.
+
+---
+
+<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy" style="height: 2em;">
+{: .float-right .ml-6}
+
+### Wikibase Consultancy
+
+[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
 
 ---
 
