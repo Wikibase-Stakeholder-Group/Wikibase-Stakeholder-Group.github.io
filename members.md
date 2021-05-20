@@ -39,6 +39,7 @@ All lists in alphabetical order
 ---
 
 ### MuseWiki
+[MuseWiki](https://muwi.epfl.ch/), a project at EPFL Lausanne, aims at offering a platform to music researchers for collaborative curation of research data.
 
 ---
 
