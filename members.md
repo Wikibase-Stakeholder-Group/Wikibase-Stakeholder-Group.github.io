@@ -55,7 +55,7 @@ All lists in alphabetical order
 
 ### Professional.Wiki
 
-[Professional.Wiki](https://professional.wiki/) is a collective providing consulting services and solutions on top of Mediawiki and Wikibase.
+[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
 
 ---
 
