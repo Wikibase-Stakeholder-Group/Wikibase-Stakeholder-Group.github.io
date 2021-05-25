@@ -42,7 +42,7 @@ last_edit_time_format: "%Y %b %e"
 
 # Build settings
 markdown: kramdown
-theme: "just-the-docs"
+# theme: "just-the-docs" # uncomment to test locally
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
