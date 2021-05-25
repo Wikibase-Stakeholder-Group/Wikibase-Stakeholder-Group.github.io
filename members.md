@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Members
+nav_order: 2
+last_modified_date: 2021-05-20
 ---
 
 # Group Members

@@ -35,13 +35,14 @@ search:
 
 
 
-
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%Y %b %e"
 
 
 
 # Build settings
 markdown: kramdown
-#theme: "just-the-docs"
+theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed

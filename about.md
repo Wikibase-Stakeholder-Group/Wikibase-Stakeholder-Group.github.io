@@ -1,6 +1,8 @@
 ---
 layout: page
 title: About
+nav_order: 1
+last_modified_date: 2021-05-25
 ---
 
 ## Mission
@@ -25,7 +27,7 @@ Membership is fluid, organizations can join and leave depending on internal proj
 
 All members join a technical steering committee that makes decisions on new projects.
 
-Additionally, an advisory board oversees that projects follow open source best practices and structurally avoid reproducing or further enabling unethical practices. The group defines and adheres to a Code of Conduct.
+Additionally, an advisory board oversees that projects follow open source best practices and structurally avoid reproducing or further enabling unethical practices. The group defines and adheres to a [Code of Conduct](code-of-conduct).
 
 ## Process
 
