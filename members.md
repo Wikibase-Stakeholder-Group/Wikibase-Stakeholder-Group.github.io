@@ -95,7 +95,7 @@ All lists in alphabetical order
 * Alexander Derveaux, FOMU - Fotomuseum Antwerpen
 * Andra Waagmeester
 * Daniel Mietchen
-* Jasper Koehorst
+* Jasper Koehorst, Wageningen University
 * Jeff Mixter, OCLC Research
 * Lane Rasberry, School of Data Science at the University of Virginia
 * Maarten Brinkerink
