@@ -8,7 +8,7 @@ last_modified_date: 2021-05-20
 # Group Members
 {: .no_toc}
 
-Membership is open to organizations and individuals that are using Wikibase for relevant work and are willing to provide resources for towards the groups [mission](about#mission). If you're interested to join, please get in touch via email to `dragan.espenschied@rhizome.org`.
+Membership is open to organizations and individuals that are using Wikibase for relevant work and are willing to provide resources for towards the groups [mission](about#mission). If you're interested in joining, please get in touch via email to `dragan.espenschied@rhizome.org`.
 
 1. TOC
 {: toc}
@@ -100,7 +100,7 @@ All lists in alphabetical order
 * Lane Rasberry, School of Data Science at the University of Virginia
 * Maarten Brinkerink
 * Maarten Zeinstra
-* Okko Vainonen, National Libray of Finland
-* Olaf Janssen, National Libray of the Netherlands
+* Okko Vainonen, National Library of Finland
+* Olaf Janssen, National Library of the Netherlands
 * Quentin Groom, Meise Botanic Garden
 * Richard Knipel
