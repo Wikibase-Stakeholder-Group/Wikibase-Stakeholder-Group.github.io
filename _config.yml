@@ -58,5 +58,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-remote_theme: pmarsceill/just-the-docs
