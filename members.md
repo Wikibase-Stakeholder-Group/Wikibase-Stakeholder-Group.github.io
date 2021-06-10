@@ -31,8 +31,6 @@ All lists in alphabetical order
 
 ---
 
----
-
 <img src="assets/logos/dcmi.svg" alt="CS&amp;S" style="height: 2.5em;">
 {: .float-right .ml-6}
 
