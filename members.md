@@ -31,6 +31,17 @@ All lists in alphabetical order
 
 ---
 
+---
+
+<img src="assets/logos/dcmi.svg" alt="CS&amp;S" style="height: 2.5em;">
+{: .float-right .ml-6}
+
+### Dublin Core Metadata Initiative
+
+The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is an organization supporting innovation in metadata design and best practices across the metadata ecology.
+
+---
+
 <img src="assets/logos/enslaved-org.svg" alt="enslaved.org" style="height: 2em;">
 {: .float-right .ml-6}
 
