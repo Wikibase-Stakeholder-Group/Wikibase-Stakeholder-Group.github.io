@@ -71,7 +71,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/TIB_Logo_EN_RGB_260px.png" alt="TIB Hannover" style="height: 1.6em;">
+<img src="assets/logos/TIB_Logo_RGB_65px.png" alt="TIB Hannover" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### TIB Hannover
