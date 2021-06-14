@@ -2,7 +2,7 @@
 layout: page
 title: Members
 nav_order: 2
-last_modified_date: 2021-05-20
+last_modified_date: 2021-06-11
 ---
 
 # Group Members
@@ -69,6 +69,14 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 [Rhizome](https://rhizome.org) is a nonprofit organization that champions born-digital art and culture through commissions, exhibitions, scholarship, and digital preservation. Since 2003, Rhizome has been an affiliate in residence at the [New Museum](http://newmuseum.org/) in New York. Rhizome hosts the [ArtBase](https://artbase.rhizome.org/) [acts as the fiscal sponsor](about) for this group.
 
+---
+
+<img src="assets/logos/TIB_Logo_EN_RGB_260px.png" alt="TIB Hannover" style="height: 1.6em;">
+{: .float-right .ml-6}
+
+### TIB Hannover
+
+[TIB](https://www.tib.eu/en/) is the University Library at Leibniz University, Hannover, and serves as the German National Library of Science and Technology. TIB is actively engaged in promoting Open Access and thus supports unrestricted, free access to scientific information.. In cooperation with the scientific community, TIB is testing new methods and tools for supporting the work of researchers.
 
 ---
 
