@@ -23,8 +23,9 @@ url: "https://wikibase-stakeholder-group.github.io" # the base hostname & protoc
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+#Styling
 logo: "/assets/images/WBSG_logo_v2.svg"
-
+color_scheme: blue-links
 
 # Site settings
 
