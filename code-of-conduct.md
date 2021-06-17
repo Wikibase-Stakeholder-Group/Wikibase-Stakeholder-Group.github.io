@@ -42,7 +42,7 @@ The Wikibase Stakeholder Group prioritizes marginalized people’s safety over p
 
 ## Reporting
 
-If you are being harassed by a member of Wikibase Stakeholder Group, notice that someone else is being harassed, or have any other concerns, please contact the response team at `wbsg_response_team@gmail.com`. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member of Wikibase Stakeholder Group, notice that someone else is being harassed, or have any other concerns, please contact the response team at `wbsg.response.team@gmail.com`. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to Wikibase Stakeholder Group spaces, but if you are being harassed by a member of Wikibase Stakeholder Group outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by Wikibase Stakeholder Group members seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The response team reserves the right to exclude people from Wikibase Stakeholder Group based on their past behavior, including behavior outside Wikibase Stakeholder Group spaces and behavior towards people who are not in Wikibase Stakeholder Group.
 
