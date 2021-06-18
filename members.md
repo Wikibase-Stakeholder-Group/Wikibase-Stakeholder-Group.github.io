@@ -67,7 +67,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ### Rhizome
 
-[Rhizome](https://rhizome.org) is a nonprofit organization that champions born-digital art and culture through commissions, exhibitions, scholarship, and digital preservation. Since 2003, Rhizome has been an affiliate in residence at the [New Museum](http://newmuseum.org/) in New York. Rhizome hosts the [ArtBase](https://artbase.rhizome.org/) [acts as the fiscal sponsor](about) for this group.
+[Rhizome](https://rhizome.org) is a nonprofit organization that champions born-digital art and culture through commissions, exhibitions, scholarship, and digital preservation. Since 2003, Rhizome has been an affiliate in residence at the [New Museum](http://newmuseum.org/) in New York. Rhizome hosts the [ArtBase](https://artbase.rhizome.org/) and [acts as the fiscal sponsor](about#structure) for this group.
 
 ---
 
