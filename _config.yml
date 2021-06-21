@@ -19,7 +19,7 @@ description: >-
   The Wikibase Stakeholder Group commissions production and maintenance of open source extensions to Wikibase, and documentation for institutions that want to operate and maintain a fully-fledged instance of Wikibase.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wikibase-stakeholder-group.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wbstakeholder.group" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
