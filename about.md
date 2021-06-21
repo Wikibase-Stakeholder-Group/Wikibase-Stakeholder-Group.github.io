@@ -48,7 +48,7 @@ The group requires digital infrastructure to discuss and decide on projects, pub
 - Rhizome will act as a fiscal sponsor to the project.
 - Discussions will take place on a Loomio instance hosted by Rhizome.
 - Source code will be published under a GitHub organization account maintained by Rhizome.
-- GitHub pages will be used to publish the project road map and documentation under a custom domain name owned by Rhizome.
+- GitHub pages will be used to publish the project road map and documentation under the domain name `wbstakeholder.group`, owned by Rhizome.
 
 ## About Rhizome
 
