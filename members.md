@@ -49,15 +49,6 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/ub-mannheim.png" alt="UB Mannheim" style="height: 2.5em;">
-{: .float-right .ml-6}
-
-### UB Mannheim
-
-[UB Mannheim](https://www.bib.uni-mannheim.de) (also known as [Mannheim University Library](https://www.bib.uni-mannheim.de/en)) provides the information and research infrastructure for teaching, learning and research activities at the [University of Mannheim](https://www.uni-mannheim.de/en). UB Mannheim creates a Wikibase knowledge graph with German companies in the project [BERD@BW](https://www.berd-bw.de).
-
----
-
 ### MuseWiki
 [MuseWiki](https://muwi.epfl.ch/), a project at EPFL Lausanne, aims at offering a platform to music researchers for collaborative curation of research data.
 
@@ -86,6 +77,15 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 ### TIB Hannover
 
 [TIB](https://www.tib.eu/en/) is the University Library at Leibniz University, Hannover, and serves as the German National Library of Science and Technology. TIB is actively engaged in promoting Open Access and thus supports unrestricted, free access to scientific information. In cooperation with the scientific community, TIB is testing new methods and tools for supporting the work of researchers.
+
+---
+
+<img src="assets/logos/ub-mannheim.png" alt="UB Mannheim" style="height: 2.5em;">
+{: .float-right .ml-6}
+
+### UB Mannheim
+
+[UB Mannheim](https://www.bib.uni-mannheim.de) (also known as [Mannheim University Library](https://www.bib.uni-mannheim.de/en)) provides the information and research infrastructure for teaching, learning and research activities at the [University of Mannheim](https://www.uni-mannheim.de/en). UB Mannheim creates a Wikibase knowledge graph with German companies in the project [BERD@BW](https://www.berd-bw.de).
 
 ---
 
