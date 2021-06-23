@@ -80,6 +80,15 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
+<img src="assets/logos/ub-mannheim.png" alt="UB Mannheim" style="height: 2.5em;">
+{: .float-right .ml-6}
+
+### UB Mannheim
+
+[UB Mannheim](https://www.bib.uni-mannheim.de) (also known as [Mannheim University Library](https://www.bib.uni-mannheim.de/en)) provides the information and research infrastructure for teaching, learning and research activities at the [University of Mannheim](https://www.uni-mannheim.de/en). UB Mannheim creates a Wikibase knowledge graph with German companies in the project [BERD@BW](https://www.berd-bw.de).
+
+---
+
 <img src="assets/logos/weso.png" alt="WESO Research Group" style="height: 2em;">
 {: .float-right .ml-6}
 
