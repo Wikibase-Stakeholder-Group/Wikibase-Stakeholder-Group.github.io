@@ -49,7 +49,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/GeneWikidata-logo-en.svg" alt="Gene Wiki" style="height: 2em;">
+<img src="assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### Gene Wiki
