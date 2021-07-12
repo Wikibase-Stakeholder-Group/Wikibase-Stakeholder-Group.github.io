@@ -48,6 +48,19 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 [Enslaved.org](https://enslaved.org/) is a linked database that allows to explore or reconstruct the lives of individuals who were enslaved, owned slaves, or participated in the historical trade. It is hosted at the [Matrix Center for Digital Humanities & Social Sciences](https://matrix.msu.edu/) at Michigan State University.
 
 ---
+<img src="assets/logos/GeneWikidata-logo-en.svg" alt="Gene Wiki" style="height: 2em;">
+{: .float-right .ml-6}
+### Gene Wiki
+[Gene Wiki](https://elifesciences.org/articles/52614)
+
+---
+
+### Micelio
+<img src="assets/logos/miceliorgb.png" alt="micel.io" style="height: 2em;">
+{: .float-right .ml-6}
+[Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
+
+---
 
 ### MuseWiki
 [MuseWiki](https://muwi.epfl.ch/), a project at EPFL Lausanne, aims at offering a platform to music researchers for collaborative curation of research data.
