@@ -49,6 +49,21 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
+<img src="assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki" style="height: 2em;">
+{: .float-right .ml-6}
+
+### Gene Wiki
+[Gene Wiki](https://elifesciences.org/articles/52614) is a project that aims at making wikidata a central hub of linked data in the life sciences. For those use cases where the underlying data is not eligble for inclusion wikibase provides a nice extension to Wikidata. The [WikidataIntegrator](https://github.com/SuLab/WikidataIntegrator) is developed and maintained by this project. 
+
+---
+
+### Micelio
+<img src="assets/logos/miceliorgb.png" alt="micel.io" style="height: 2em;">
+{: .float-right .ml-6}
+[Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
+
+---
+
 ### MuseWiki
 [MuseWiki](https://muwi.epfl.ch/), a project at EPFL Lausanne, aims at offering a platform to music researchers for collaborative curation of research data.
 
@@ -119,7 +134,6 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ## Individual members
 * Alexander Derveaux, FOMU - Fotomuseum Antwerpen
-* Andra Waagmeester
 * Daniel Mietchen
 * Jasper Koehorst, Wageningen University
 * Jeff Mixter, OCLC Research
