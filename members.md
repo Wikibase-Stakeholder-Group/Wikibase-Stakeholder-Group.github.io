@@ -48,10 +48,12 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 [Enslaved.org](https://enslaved.org/) is a linked database that allows to explore or reconstruct the lives of individuals who were enslaved, owned slaves, or participated in the historical trade. It is hosted at the [Matrix Center for Digital Humanities & Social Sciences](https://matrix.msu.edu/) at Michigan State University.
 
 ---
+
 <img src="assets/logos/GeneWikidata-logo-en.svg" alt="Gene Wiki" style="height: 2em;">
 {: .float-right .ml-6}
+
 ### Gene Wiki
-[Gene Wiki](https://elifesciences.org/articles/52614)
+[Gene Wiki](https://elifesciences.org/articles/52614) is a project that aims at making wikidata a central hub of linked data in the life sciences. For those use cases where the underlying data is not eligble for inclusion wikibase provides a nice extension to Wikidata. The [WikidataIntegrator](https://github.com/SuLab/WikidataIntegrator) is developed and maintained by this project. 
 
 ---
 
@@ -132,7 +134,6 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ## Individual members
 * Alexander Derveaux, FOMU - Fotomuseum Antwerpen
-* Andra Waagmeester
 * Daniel Mietchen
 * Jasper Koehorst, Wageningen University
 * Jeff Mixter, OCLC Research
