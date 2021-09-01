@@ -144,3 +144,4 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 * Olaf Janssen, National Library of the Netherlands
 * Quentin Groom, Meise Botanic Garden
 * Richard Knipel
+* Jackie Shieh, Smithsonian Libraries & Archives
