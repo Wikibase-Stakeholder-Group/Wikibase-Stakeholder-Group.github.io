@@ -145,3 +145,4 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 * Quentin Groom, Meise Botanic Garden
 * Richard Knipel
 * Jackie Shieh, Smithsonian Libraries & Archives
+* Thomas Bauer, German National Library
