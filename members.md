@@ -95,6 +95,9 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
+<img src="assets/logos/TIB_Logo_RGB_65px.png" alt="TIB Hannover" style="height: 3em;">
+{: .float-right .ml-6}
+
 ### TIB Hannover
 
 [TIB](https://www.tib.eu/en/) is the University Library at Leibniz University, Hannover, and serves as the German National Library of Science and Technology. TIB is actively engaged in promoting Open Access and thus supports unrestricted, free access to scientific information. In cooperation with the scientific community, TIB is testing new methods and tools for supporting the work of researchers.
