@@ -86,7 +86,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/The_QA_Company.svg" alt="The QA Company" style="height: 3em;">
+<img src="assets/logos/The_QA_Company.png" alt="The QA Company" style="height: 3em;">
 {: .float-right .ml-6}
 
 ### The QA Company
