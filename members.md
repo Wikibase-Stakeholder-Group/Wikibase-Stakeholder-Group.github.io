@@ -86,8 +86,14 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/TIB_Logo_RGB_65px.png" alt="TIB Hannover" style="height: 3em;">
+<img src="assets/logos/The_QA_Company.svg" alt="The QA Company" style="height: 3em;">
 {: .float-right .ml-6}
+
+### The QA Company
+
+[The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
+
+---
 
 ### TIB Hannover
 
