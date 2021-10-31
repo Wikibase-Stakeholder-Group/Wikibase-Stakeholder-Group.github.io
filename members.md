@@ -77,6 +77,15 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
+<img src="assets/logos/The_QA_Company.png" alt="The QA Company" style="height: 3em;">
+{: .float-right .ml-6}
+
+### The QA Company
+
+[The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
+
+---
+
 <img src="assets/logos/rhizome.svg" alt="Rhizome" style="height: 1.6em;">
 {: .float-right .ml-6}
 
@@ -84,14 +93,6 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 [Rhizome](https://rhizome.org) is a nonprofit organization that champions born-digital art and culture through commissions, exhibitions, scholarship, and digital preservation. Since 2003, Rhizome has been an affiliate in residence at the [New Museum](http://newmuseum.org/) in New York. Rhizome hosts the [ArtBase](https://artbase.rhizome.org/) and [acts as the fiscal sponsor](about#structure) for this group.
 
----
-
-<img src="assets/logos/The_QA_Company.png" alt="The QA Company" style="height: 3em;">
-{: .float-right .ml-6}
-
-### The QA Company
-
-[The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
 
 ---
 
