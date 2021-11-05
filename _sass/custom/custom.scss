@@ -14,3 +14,46 @@
 code {
   font-size: 0.85em
 }
+
+table.budget {
+  border-spacing: 0;
+  border-collapse: collapse;
+
+  tbody tr:nth-child(1) td.sum {
+    font-weight: bold;
+  }
+
+  th {
+    background: $grey-lt-000;
+  }
+
+  th {
+    vertical-align: top;
+  }
+  td {
+    vertical-align: top;
+    font-stretch: condensed;
+  }
+
+  td.balance {
+    text-align: right;
+  }
+
+  td.date {
+    text-align: center;
+  }
+
+  td.sum {
+    text-align: right;
+    font-family: "SFMono-Regular",Menlo,Consolas,Monospace
+  }
+}
+
+.logodeck {
+  img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+  }
+}
