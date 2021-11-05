@@ -13,7 +13,7 @@ Wikibase is regarded not solely as an extension to the Mediawiki framework, but 
 
 The group plans on producing software and documentation that will empower the use of Wikibase for new use-cases and in new settings. Its focus is not on a single domain such as science, humanities, or GLAM, but rather on identifying projects that will benefit as many stakeholders as possible.
 
-Members of thr group pool financial and human resources, so that the group can 1) define and consolidate desirable features and documentation for Wikibase, 2) produce or commission these projects, and 3) maintain these projects.
+Members of the group pool financial and human resources, so that the group can 1) define and consolidate desirable features and documentation for Wikibase, 2) produce or commission these projects, and 3) maintain these projects.
 
 When producing software, the group will focus on extensions to Wikibase instead of contributing to Wikibase core, to be independent from official Wikibase release cycles. All projects are published in a road map and coordinated with Wikimedia Deutschland, ensuring that extensions produced by the group align with the overall Wikibase road map without duplicating efforts. The group is open to handing over features to Wikimedia Deutschland so that they can be integrated into Wikibase core.
 
