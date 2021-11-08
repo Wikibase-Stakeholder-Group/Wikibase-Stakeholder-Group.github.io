@@ -3,7 +3,7 @@ title: Institutional requirements
 parent: Projects
 nav_order: 1
 layout: default
-last_modified_date: 2021-11-05
+last_modified_date: 2021-11-08
 ---
 
 
@@ -15,7 +15,7 @@ Members of the Wikibase Stakeholder Group are already using or are in the proces
 
 The group defined 5 major areas where Wikimedia Deutschland could improve the existing Docker distribution of Wikibase to help further institutional adoption. Each area contains concrete recommendations that were ranked by the group's members for possible impact. A score of "5" indicates an improvement that the members felt would provide the greatest impact; at the other end of the scale, a score of "1" indicates a feature which would be nice to have, but was not determined by members to be as pressing as higher-ranked issues.
 
-This document was officially handed over to Wikimedia Deutschland Nov 5, 2021.
+This document was officially handed over to Wikimedia Deutschland Nov 8, 2021.
 
 
 <details markdown="block">
