@@ -19,7 +19,7 @@ When producing software, the group will focus on extensions to Wikibase instead 
 
 ## Structure
 
-Rhizome acts as the fiscal sponsor of the group. This includes: managing project funds, maintaining technical infrastructure, and providing a stable home for the initiative among changing members. Rhizome takes 10% of all incoming funds as management fees, but does not charge for running costs.
+Rhizome acts as the fiscal sponsor of the group. This includes: managing project funds, maintaining technical infrastructure, and providing a stable home for the initiative among changing members. Rhizome takes 7% of all incoming funds as management fees, but does not charge for running costs.
 
 Any institution can apply to become a member of the initiative. Members can be approved if they are able to commit human or financial resources to projects the initiative has published on its road map, or are interested in proposing and supporting new projects.
 
