@@ -49,6 +49,14 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
+<img src="assets/logos/fiz-karlsruhe.png" alt="FIZ Karlsruhe" style="height: 1.6em;">
+{: .float-right .ml-6}
+
+### FIZ Karlsruhe
+[FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en) – Leibniz Institute for Information Infrastructure is one of the large infrastructure institutions in Germany and member of the Leibniz Association. .
+
+---
+
 <img src="assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki" style="height: 2em;">
 {: .float-right .ml-6}
 
@@ -144,16 +152,22 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ## Individual members
 * Alexander Derveaux, FOMU - Fotomuseum Antwerpen
-* Daniel Mietchen
+* Daniel Mietchen, Scholia
+* David Fichtmueller, Botanic Garden and Botanical Museum (BGBM) Berlin
+* David Lindemann, UPV/EHU University of the Basque Country
+* Frieder Leipold, KU Leuven
+* Jackie Shieh, Smithsonian Libraries & Archives
 * Jasper Koehorst, Wageningen University
 * Jeff Mixter, OCLC Research
 * Lane Rasberry, School of Data Science at the University of Virginia
-* Maarten Brinkerink
-* Maarten Zeinstra
+* Laurence 'GreenReaper' Parry, Wikibase Community User Group
+* Maarten Brinkerink, Digitaal Werktuig
+* Maarten Trekels, Meise Botanic Garden
+* Maarten Zeinstra, IP Squared
 * Okko Vainonen, National Library of Finland
 * Olaf Janssen, National Library of the Netherlands
+* Paul-Olivier Dehaye, personaldata.io
 * Quentin Groom, Meise Botanic Garden
 * Richard Knipel
-* Jackie Shieh, Smithsonian Libraries & Archives
+* Ross Spencer, Ravensburger AG
 * Thomas Bauer, German National Library
-* Laurence 'GreenReaper' Parry, Wikibase Community User Group
