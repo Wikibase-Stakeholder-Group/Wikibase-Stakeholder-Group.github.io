@@ -49,7 +49,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/fiz-karlsruhe.png" alt="FIZ Karlsruhe" style="height: 1.6em;">
+<img src="assets/logos/fiz-karlsruhe.png" alt="FIZ Karlsruhe" style="height: 1.7em;">
 {: .float-right .ml-6}
 
 ### FIZ Karlsruhe
@@ -57,7 +57,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki" style="height: 2em;">
+<img src="assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki" style="height: 2.2em;">
 {: .float-right .ml-6}
 
 ### Gene Wiki
@@ -66,7 +66,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 ---
 
 ### Micelio
-<img src="assets/logos/miceliorgb.png" alt="micel.io" style="height: 2em;">
+<img src="assets/logos/miceliorgb.png" alt="micel.io" style="height: 2.2em;">
 {: .float-right .ml-6}
 [Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
 
