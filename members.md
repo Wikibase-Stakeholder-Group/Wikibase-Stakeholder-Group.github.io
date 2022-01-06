@@ -151,6 +151,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 ---
 
 ## Individual members
+* Adam Shorland
 * Alexander Derveaux, FOMU - Fotomuseum Antwerpen
 * Daniel Mietchen, Scholia
 * David Fichtmueller, Botanic Garden and Botanical Museum (BGBM) Berlin
