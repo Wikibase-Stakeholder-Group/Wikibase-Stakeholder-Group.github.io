@@ -22,7 +22,7 @@ All lists in alphabetical order
 
 ---
 
-<img src="assets/logos/cs+s.png" alt="CS&amp;S" style="height: 2em;">
+<img src="assets/logos/cs+s.png" alt="CS&amp;S logo" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### Code for Science & Society
@@ -31,7 +31,16 @@ All lists in alphabetical order
 
 ---
 
-<img src="assets/logos/dcmi.svg" alt="CS&amp;S" style="height: 2.5em;">
+<img src="assets/logos/ds_logo.png" alt="Digital Scriptorium logo" style="height: 3em;">
+{: .float-right .ml-6}
+
+### Digital Scriptorium
+
+[Digital Scriptorium](https://digital-scriptorium.org/) is a growing consortium of American libraries and museums committed to free online access to their collections of pre-modern manuscripts.
+
+---
+
+<img src="assets/logos/dcmi.svg" alt="Dublin Core Metadata Initiative logo" style="height: 2.5em;">
 {: .float-right .ml-6}
 
 ### Dublin Core Metadata Initiative
@@ -40,7 +49,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/enslaved-org.svg" alt="enslaved.org" style="height: 2em;">
+<img src="assets/logos/enslaved-org.svg" alt="enslaved.org logo" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### Enslaved.org
@@ -49,7 +58,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/fiz-karlsruhe.png" alt="FIZ Karlsruhe" style="height: 1.8em;">
+<img src="assets/logos/fiz-karlsruhe.png" alt="FIZ Karlsruhe logo" style="height: 1.8em;">
 {: .float-right .ml-6}
 
 ### FIZ Karlsruhe
@@ -57,7 +66,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki" style="height: 3em;">
+<img src="assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki logo" style="height: 3em;">
 {: .float-right .ml-6}
 
 ### Gene Wiki
@@ -66,7 +75,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 ---
 
 ### Micelio
-<img src="assets/logos/miceliorgb.png" alt="micel.io" style="height: 3em;">
+<img src="assets/logos/miceliorgb.png" alt="micel.io logo" style="height: 3em;">
 {: .float-right .ml-6}
 [Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
 
@@ -77,7 +86,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/openrefine.svg" alt="CS&amp;S" style="height: 2em;">
+<img src="assets/logos/openrefine.svg" alt="OpenRefine logo" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### OpenRefine
@@ -85,7 +94,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/The_QA_Company.png" alt="The QA Company" style="height: 2.6em;">
+<img src="assets/logos/The_QA_Company.png" alt="The QA Company logo" style="height: 2.6em;">
 {: .float-right .ml-6}
 
 ### The QA Company
@@ -94,7 +103,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/rhizome.svg" alt="Rhizome" style="height: 1.5em;">
+<img src="assets/logos/rhizome.svg" alt="Rhizome logo" style="height: 1.5em;">
 {: .float-right .ml-6}
 
 ### Rhizome
@@ -104,7 +113,16 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/TIB_Logo_RGB_65px.png" alt="TIB Hannover" style="height: 3em;">
+<img src="assets/logos/logo_semlab_transparent.png" alt="Semantic Lab logo" style="height: 3em;">
+{: .float-right .ml-6}
+
+### Semantic Lab at Pratt Institute
+
+The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the development of novel methods and tools for the application of semantic technologies to libraries, archives and museums. 
+
+---
+
+<img src="assets/logos/TIB_Logo_RGB_65px.png" alt="TIB Hannover logo" style="height: 3em;">
 {: .float-right .ml-6}
 
 ### TIB Hannover
@@ -113,7 +131,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/ub-mannheim.png" alt="UB Mannheim" style="height: 2.5em;">
+<img src="assets/logos/ub-mannheim.png" alt="UB Mannheim logo" style="height: 2.5em;">
 {: .float-right .ml-6}
 
 ### UB Mannheim
@@ -122,7 +140,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/weso.png" alt="WESO Research Group" style="height: 2em;">
+<img src="assets/logos/weso.png" alt="WESO Research Group logo" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### WESO Research Group
@@ -131,7 +149,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy" style="height: 2em;">
+<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### Wikibase Consultancy
@@ -140,7 +158,7 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/wmde.svg" alt="Wikimedia Deutschland" style="height: 2em;">
+<img src="assets/logos/wmde.svg" alt="Wikimedia Deutschland logo" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### Wikimedia Deutschland
@@ -157,14 +175,19 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 * David Fichtmueller, Botanic Garden and Botanical Museum (BGBM) Berlin
 * David Lindemann, UPV/EHU University of the Basque Country
 * Frieder Leipold, KU Leuven
+* Graham Jevon, British Library
 * Jackie Shieh, Smithsonian Libraries & Archives
+* James Baker,  Digital Humanities Hub, University of Southampton
 * Jasper Koehorst, Wageningen University
 * Jeff Mixter, OCLC Research
 * Lane Rasberry, School of Data Science at the University of Virginia
 * Laurence 'GreenReaper' Parry, Wikibase Community User Group
+* Lucy Hinnie, British Library
 * Maarten Brinkerink, Digitaal Werktuig
 * Maarten Trekels, Meise Botanic Garden
 * Maarten Zeinstra, IP Squared
+* Max Kristen, LMU Munich
+* Núria Queralt Rosinach, Leiden University Medical Center  
 * Okko Vainonen, National Library of Finland
 * Olaf Janssen, National Library of the Netherlands
 * Paul-Olivier Dehaye, personaldata.io
