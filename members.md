@@ -22,15 +22,6 @@ All lists in alphabetical order
 
 ---
 
-<img src="assets/logos/cs+s.png" alt="CS&amp;S logo" style="height: 2em;">
-{: .float-right .ml-6}
-
-### Code for Science & Society
-
-[CS&S](https://codeforscience.org/) is a US-based nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source.
-
----
-
 <img src="assets/logos/ds_logo.png" alt="Digital Scriptorium logo" style="height: 3em;">
 {: .float-right .ml-6}
 
