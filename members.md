@@ -22,6 +22,15 @@ All lists in alphabetical order
 
 ---
 
+<img src="assets/logos/BHL-Extended-978x1024.png" alt="Biodiversity Heritage Library logo" style="height: 4em;">
+{: .float-right .ml-6}
+
+### Biodiversity Heritage Library
+
+[Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) is the world’s largest open access digital library for biodiversity literature and archives. BHL is revolutionizing global research by providing free, worldwide access to knowledge about life on Earth.
+
+---
+
 <img src="assets/logos/ds_logo.png" alt="Digital Scriptorium logo" style="height: 3em;">
 {: .float-right .ml-6}
 
