@@ -27,7 +27,7 @@ All lists in alphabetical order
 
 ### Biodiversity Heritage Library
 
-[Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) is the world’s largest open access digital library for biodiversity literature and archives. BHL is revolutionizing global research by providing free, worldwide access to knowledge about life on Earth.
+[Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) is the world’s largest open access digital library for biodiversity literature and archives. Operating as an international library consortium, BHL provides free access to millions of pages, representing over 500 years of scientific research about Life on Earth, alongside services like data exports, APIs, and taxonomic intelligence tools to facilitate discovery and reuse of data and collections.
 
 ---
 
