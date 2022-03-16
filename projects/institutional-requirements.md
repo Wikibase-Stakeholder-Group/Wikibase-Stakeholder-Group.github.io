@@ -3,7 +3,7 @@ title: Institutional requirements
 parent: Projects
 nav_order: 1
 layout: default
-last_modified_date: 2021-11-08
+last_modified_date: 2022-03-16
 ---
 
 
@@ -15,7 +15,7 @@ Members of the Wikibase Stakeholder Group are already using or are in the proces
 
 The group defined 5 major areas where Wikimedia Deutschland could improve the existing Docker distribution of Wikibase to help further institutional adoption. Each area contains concrete recommendations that were ranked by the group's members for possible impact. A score of "5" indicates an improvement that the members felt would provide the greatest impact; at the other end of the scale, a score of "1" indicates a feature which would be nice to have, but was not determined by members to be as pressing as higher-ranked issues.
 
-This document was officially handed over to Wikimedia Deutschland Nov 8, 2021.
+This document was officially handed over to Wikimedia Deutschland (WMDE) on Nov 8, 2021. WMDE [replied](#reply-by-wmde) on March 2, 2022.
 
 
 <details markdown="block">
@@ -162,5 +162,41 @@ This document was officially handed over to Wikimedia Deutschland Nov 8, 2021.
 
 <img src="/assets/logos/cs+s.png" alt="CS&amp;S" style="height: 1.8em;"> <img src="/assets/logos/dcmi.svg" alt="Dublic Core Metadata Initiative" style="height: 2.5em;"> <img src="/assets/logos/enslaved-org.svg" alt="enslaved.org" style="height: 2em;"> <img src="/assets/logos/GeneWikidata-logo-en.png" alt="Gene Wiki" style="height: 2.7em;"> <img src="/assets/logos/miceliorgb.png" alt="micel.io" style="height: 3em;"> <img src="/assets/logos/openrefine.svg" alt="OpenRefine" style="height: 1.8em;"> <img src="/assets/logos/The_QA_Company.png" alt="The QA Company" style="height: 2.5em;"> <img src="/assets/logos/rhizome.svg" alt="Rhizome" style="height: 1.4em;"> <img src="/assets/logos/TIB_Logo_RGB_65px.png" alt="TIB Hannover" style="height: 3em;"> <img src="/assets/logos/ub-mannheim.png" alt="UB Mannheim" style="height: 2.5em;"> <img src="/assets/logos/weso.png" alt="WESO Research Group" style="height: 1.9em;"> <img src="/assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy" style="height: 2.1em;">
 {: .logodeck }
+
+
+---
+
+## Reply by WMDE
+
+_On March 3 2022, Wikimedia Deutschland send their official reply to the Wikibase Stakeholder Group mailing list:_
+
+Dear members of the Wikibase Stakeholder group,
+
+Many thanks for putting together and sharing the above letter. The Wikibase team at Wikimedia Deutschland had a look over the letter, and in response, wanted to address a number of the points you raised and share some updates. 
+
+### Change dispatching work in 2021
+
+- The requirement entitled “Automatic maintenance processes and updating cascades should work out of the box” has been addressed.
+- When setting up a Wikibase instance, the new default will be that jobs automatically run every request, removing the need for manually setting up scripts.
+- Users can expect this update in one of the Wikibase docker releases due to be rolled out within the next year. Documentation addressing this change will be updated accordingly. 
+
+### Wikidata Query Service and Blazegraph
+
+- A number of the items in your list involve the Wikidata Query Service and Blazegraph. The Wikimedia Foundation (WMF) hosts Wikidata and is responsible for the backend of the Wikidata Query Service and Blazegraph maintenance. 
+- As explored in the “Scaling Wikidata Query Service” session during WikidataCon in 2021 ([see recording](https://www.youtube.com/watch?v=wn2BrQomvFU)), the Wikidata Query Service is reaching its technical limits. Furthermore, the backend for the query service, Blazegraph, is no longer actively developed and maintained. For this reason, the WMF is currently exploring alternative backend solutions. They are providing regular updates on the Wikidata mailing list, the latest of which can be read [here](https://www.wikidata.org/wiki/Wikidata:SPARQL_query_service/WDQS-scaling-update-feb-2022). 
+- The WMF team working on backend solutions are aware of the use of Wikibase outside Wikimedia and the requirement to run a query service for these other Wikibase installations. The issue for the Wikidata Query Service is a combination of high quantities of data, very frequent updates to that data and many queries. Other Wikibases might be less affected by this combination of factors or have their own separate scaling challenges that we will need to explore together.
+- Due to the ongoing nature of this topic, we do not recommend that the Wikibase stakeholder group prioritise development work involving the current Query Service and Blazegraph setup. Instead, we recommend waiting for further progress on the scaling of Wikidata’s Query Service to then evaluate which steps need to be taken, if any. 
+
+### Focus on Wikibase.cloud
+
+- [As outlined in the Wikibase roadmap for 2022](https://www.wikidata.org/wiki/Wikidata:Development_plan), our focus for the first quarter of the year will be on Wikibase.cloud. 
+- We are in the process of hiring a product manager dedicated to the Wikibase suite, which includes the docker images. Once this new team member is onboarded, they will be well-placed to make decisions for further Wikibase suite development work in the latter half of the year. 
+
+### Reconciliation 
+
+- It is great to see the recent development work by OpenRefine that allows users to import data into an arbitrary Wikibase instance that is not Wikidata.
+- The issue of reconciliation is certainly one we are interested in solving sustainably. Our plans in this area should become clearer in the summer of 2022. 
+
+
 
 
