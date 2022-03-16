@@ -22,12 +22,12 @@ All lists in alphabetical order
 
 ---
 
-<img src="assets/logos/cs+s.png" alt="CS&amp;S logo" style="height: 2em;">
+<img src="assets/logos/BHL-Extended-978x1024.png" alt="Biodiversity Heritage Library logo" style="height: 4em;">
 {: .float-right .ml-6}
 
-### Code for Science & Society
+### Biodiversity Heritage Library
 
-[CS&S](https://codeforscience.org/) is a US-based nonprofit supporting open collaboration in public interest technology through fiscal sponsorship and other programs supporting sustainable open source.
+[Biodiversity Heritage Library](https://www.biodiversitylibrary.org/) is the world’s largest open access digital library for biodiversity literature and archives. Operating as an international library consortium, BHL provides free access to millions of pages, representing over 500 years of scientific research about Life on Earth, alongside services like data exports, APIs, and taxonomic intelligence tools to facilitate discovery and reuse of data and collections.
 
 ---
 
