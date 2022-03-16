@@ -4,6 +4,7 @@ parent: Projects
 nav_order: 1
 layout: default
 last_modified_date: 2022-03-16
+description: Summary of institutional requirements for self-deployed Wikibase usage
 ---
 
 
