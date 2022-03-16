@@ -16,7 +16,8 @@ Members of the Wikibase Stakeholder Group are already using or are in the proces
 
 The group defined 5 major areas where Wikimedia Deutschland could improve the existing Docker distribution of Wikibase to help further institutional adoption. Each area contains concrete recommendations that were ranked by the group's members for possible impact. A score of "5" indicates an improvement that the members felt would provide the greatest impact; at the other end of the scale, a score of "1" indicates a feature which would be nice to have, but was not determined by members to be as pressing as higher-ranked issues.
 
-This document was officially handed over to Wikimedia Deutschland (WMDE) on Nov 8, 2021. WMDE [replied](#reply-by-wmde) on March 2, 2022.
+This document was officially handed over to Wikimedia Deutschland (WMDE) on Nov 8, 2021.<br>
+WMDE [replied](#reply-by-wmde) on March 2, 2022.
 
 
 <details markdown="block">
