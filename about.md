@@ -7,7 +7,7 @@ last_modified_date: 2021-05-25
 
 ## Mission
 
-The **Wikibase Stakeholder Group** commissions production and maintenance of open source extensions to Wikibase, and documentation for institutions that want to operate and maintain a fully-fledged instance of Wikibase.
+The **Wikibase Stakeholder Group** commissions production and maintenance of open source extensions to Wikibase, and documentation for organizations that want to operate and maintain a fully-fledged instance of Wikibase. Membership is open to organizations using Wikibase for mission critical work, open source projects producing tools that interface with Wikibase, Wikibase service providers, and software developers and consultancies.
 
 Wikibase is regarded not solely as an extension to the Mediawiki framework, but as a integrated set of tools that make it possible to manage, edit, query, and present linked data.
 
