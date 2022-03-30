@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Data Stewardship Matrix
-last_modified_date: 2022-03-24
+last_modified_date: 2022-03-30
 description: Survey on how different Wikibase projects manage their data in relation to outside communities
 parent: Projects
 nav_order: 3
