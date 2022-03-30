@@ -1,0 +1,173 @@
+<style>
+    .table-wrapper {
+        display: block;
+        width: none;
+        max-width: none;
+        overflow-x: visible;
+        border-radius: 0;
+        box-shadow: none;
+    }
+    
+</style>
+
+<table class="scopes">
+    <thead>
+        <tr>
+            <td></td>
+            <td class="text-center fw-700">A</td>
+            <td class="text-center fw-700">B</td>
+            <td class="text-center fw-700">C</td>
+            <td class="text-center fw-700">D</td>
+            <td class="text-center fw-700">E</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="fw-700">access</td>
+            <td></td><td></td><td></td><td></td><td></td>
+        </tr>
+        <tr class="feature-group">
+            <td nowrap>anyone can browse &amp; query</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+        </tr>
+        
+        <tr>
+            <td class="fw-700">editing</td>
+            <td></td><td></td><td></td><td></td><td></td>
+        </tr>
+        <tr class="feature-group">
+            <td nowrap>non-members can edit</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+        </tr>
+        <tr class="feature-group community-only">
+            <td nowrap>community can edit</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+        </tr>
+        
+        <tr>
+            <td class="fw-700">moderation</td>
+            <td></td><td></td><td></td><td></td><td></td>
+        </tr>
+        <tr class="feature-group">
+            <td nowrap>anynone can moderate</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+        </tr>
+        <tr class="feature-group community-only">
+            <td nowrap>community can moderate</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+        </tr>
+
+        <tr>
+            <td nowrap class="fw-700">technical infrastructure</td>
+            <td></td><td></td><td></td><td></td><td></td>
+        </tr>
+        <tr class="feature-group">
+            <td nowrap>outside community control</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+        </tr>
+        <tr class="feature-group community-only">
+            <td nowrap>community-controlled</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html checked='x' %}</td>
+            <td class="text-center">{% include tickbox.html %}</td>
+        </tr>
+
+        <tr>
+            <td class="fw-700">Policy summary</td>
+            <td>Community runs a fully private instance of Wikibase, possibly federating in a network of such instances.</td>
+            <td>Community runs a public-facing Wikibase, only community members can edit.</td>
+            <td>Community runs a public-facing Wikibase that federates with an outside repository; links are pointing from the community instance to the outside repository to enrich local presentation of data.</td>
+            <td>Community runs a public-facing Wikibase that exchanges data with an outside repository. Users of the outside repository can discover the community's Wikibase.</td>
+            <td>All data is publicly available and free to edit.</td>
+        </tr>
+
+
+        <tr class="project">
+            <td nowrap>Ravensburger AG</td>
+            <td class="in-scope"><hr></td><td></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr class="project">
+            <td nowrap><abbr title="Fichier partagé d’autorités du patrimoine culturel luxembourgeois">LUDAP</abbr></td>
+            <td class="in-scope" colspan="2"><hr></td><td></td><td></td><td></td>
+        </tr>
+
+
+        <tr class="project">
+            <td nowrap><abbr title="Collection Description Standard">CDS</abbr></td>
+            <td></td><td class="in-scope"><hr></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr class="project">
+            <td nowrap>Digital Scriptorium</td>
+            <td></td><td class="in-scope"><hr></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr class="project">
+            <td nowrap>Smithsonian Lib Archives</td>
+            <td></td><td class="in-scope"><hr></td><td></td><td></td><td></td>
+        </tr>
+
+        <tr class="project">
+            <td nowrap>Beyond Notability</td>
+            <td></td><td colspan="2" class="in-scope"><hr></td><td></td><td></td>
+        </tr>
+
+        <tr class="project">
+            <td nowrap>enslaved.org</td>
+            <td></td><td colspan="2" class="in-scope"><hr></td><td></td><td></td>
+        </tr>
+
+        <tr class="project">
+            <td nowrap>EU Knowledge Graph</td>
+            <td></td><td colspan="2" class="in-scope"><hr></td><td></td><td></td>
+        </tr>
+        <tr class="project">
+            <td nowrap>Rhizome ArtBase</td>
+            <td></td><td colspan="2" class="in-scope"><hr></td><td></td><td></td>
+        </tr>
+
+        <tr class="project">
+            <td nowrap>Semantic Lab @ Pratt</td>
+            <td></td><td colspan="2" class="in-scope"><hr></td><td></td><td></td>
+        </tr>
+        <tr class="project">
+            <td nowrap>WikiFur</td>
+            <td></td><td></td><td></td><td class="in-scope"><hr></td><td></td>
+        </tr>
+        <tr class="project">
+            <td nowrap>Wikidata</td>
+            <td></td><td></td><td></td><td></td><td class="in-scope"><hr></td>
+        </tr>
+        <tr class="project">
+            <td nowrap>Wikimedia Commons</td>
+            <td></td><td></td><td></td><td></td><td class="in-scope"><hr></td>
+        </tr>
+    </tbody>
+</table>

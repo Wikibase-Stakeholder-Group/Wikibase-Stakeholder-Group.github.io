@@ -1,0 +1,6 @@
+{% assign checked = include.checked | default:'' -%}
+{% if checked != '' -%}
+<span class="tickbox checked"><span>✔</span></span>
+{% else %}
+<span class="tickbox"></span>
+{% endif -%}
