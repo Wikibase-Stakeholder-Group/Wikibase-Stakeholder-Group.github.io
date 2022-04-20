@@ -141,6 +141,11 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
+### IP Squared
+[IP Squared](https://ip-squared.com) is the consultancy firm of Maarten Zeinstra, IP Lawyer and Information Professional. Maarten does project around information and knowledge management in the public sector.
+
+---
+
 ### Micelio
 <img src="assets/logos/miceliorgb.png" alt="micel.io logo" style="height: 3em;">
 {: .float-right .ml-6}
@@ -163,9 +168,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 ### Wikibase Consultancy
 
 [Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
-
-### IP Squared
-[IP Squared](https://ip-squared.com) is the consultancy firm of Maarten Zeinstra, IP Lawyer and Information Professional. Maarten does project around information and knowledge management in the public sector.
 
 ---
 
