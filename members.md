@@ -141,6 +141,11 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
+### Digitaal Werktuig
+[Digitaal werktuig](https://www.digitaalwerktuig.nl/en/) Digitaal Werktuig is a freelance enterprise founded by Maarten Brinkerink (Est. October 2020). Maarten Brinkerink is an expert in digital culture and information processing. He is an experienced project manager, researcher and consultant, working in the cultural heritage sector for over 13 years.
+
+---
+
 ### IP Squared
 [IP Squared](https://ip-squared.com) is the consultancy firm of Maarten Zeinstra, IP Lawyer and Information Professional. Maarten does project around information and knowledge management in the public sector.
 
@@ -186,7 +191,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 * Lane Rasberry, School of Data Science at the University of Virginia
 * Laurence 'GreenReaper' Parry, Wikibase Community User Group
 * Lucy Hinnie, British Library
-* Maarten Brinkerink, Digitaal Werktuig
 * Maarten Trekels, Meise Botanic Garden
 * Max Kristen, LMU Munich
 * Núria Queralt Rosinach, Leiden University Medical Center  
