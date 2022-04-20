@@ -74,18 +74,6 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-### Micelio
-<img src="assets/logos/miceliorgb.png" alt="micel.io logo" style="height: 3em;">
-{: .float-right .ml-6}
-[Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
-
----
-
-### MuseWiki
-[MuseWiki](https://muwi.epfl.ch/), a project at EPFL Lausanne, aims at offering a platform to music researchers for collaborative curation of research data.
-
----
-
 <img src="assets/logos/openrefine.svg" alt="OpenRefine logo" style="height: 2em;">
 {: .float-right .ml-6}
 
@@ -150,6 +138,13 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 ---
 
 ## Consultants
+
+---
+
+### Micelio
+<img src="assets/logos/miceliorgb.png" alt="micel.io logo" style="height: 3em;">
+{: .float-right .ml-6}
+[Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
 
 ---
 
