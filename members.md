@@ -94,15 +94,6 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-<img src="assets/logos/The_QA_Company.png" alt="The QA Company logo" style="height: 2.6em;">
-{: .float-right .ml-6}
-
-### The QA Company
-
-[The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
-
----
-
 <img src="assets/logos/rhizome.svg" alt="Rhizome logo" style="height: 1.5em;">
 {: .float-right .ml-6}
 
@@ -149,15 +140,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
-<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
-{: .float-right .ml-6}
-
-### Wikibase Consultancy
-
-[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
-
----
-
 <img src="assets/logos/wmde.svg" alt="Wikimedia Deutschland logo" style="height: 2em;">
 {: .float-right .ml-6}
 
@@ -165,6 +147,27 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 [Wikimedia Deutschland](https://www.wikimedia.de/) was founded in 2004 as the German chapter of the Wikimedia movement and is leading development on Wikibase and Wikidata.
 
+---
+
+## Consultants
+
+---
+
+<img src="assets/logos/The_QA_Company.png" alt="The QA Company logo" style="height: 2.6em;">
+{: .float-right .ml-6}
+
+### The QA Company
+
+[The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
+
+---
+
+<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
+{: .float-right .ml-6}
+
+### Wikibase Consultancy
+
+[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
 
 ---
 
