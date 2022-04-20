@@ -164,6 +164,9 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 [Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
 
+### IP Squared
+[IP Squared](https://ip-squared.com) is the consultancy firm of Maarten Zeinstra, IP Lawyer and Information Professional. Maarten does project around information and knowledge management in the public sector.
+
 ---
 
 ## Individual members
@@ -183,7 +186,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 * Lucy Hinnie, British Library
 * Maarten Brinkerink, Digitaal Werktuig
 * Maarten Trekels, Meise Botanic Garden
-* Maarten Zeinstra, IP Squared
 * Max Kristen, LMU Munich
 * Núria Queralt Rosinach, Leiden University Medical Center  
 * Okko Vainonen, National Library of Finland
