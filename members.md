@@ -2,7 +2,7 @@
 layout: page
 title: Members
 nav_order: 2
-last_modified_date: 2021-06-11
+last_modified_date: 2022-05-06
 ---
 
 # Group Members
@@ -74,32 +74,11 @@ The [Dublin Core™ Metadata Initiative](https://dublincore.org/), or "DCMI," is
 
 ---
 
-### Micelio
-<img src="assets/logos/miceliorgb.png" alt="micel.io logo" style="height: 3em;">
-{: .float-right .ml-6}
-[Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
-
----
-
-### MuseWiki
-[MuseWiki](https://muwi.epfl.ch/), a project at EPFL Lausanne, aims at offering a platform to music researchers for collaborative curation of research data.
-
----
-
 <img src="assets/logos/openrefine.svg" alt="OpenRefine logo" style="height: 2em;">
 {: .float-right .ml-6}
 
 ### OpenRefine
 [OpenRefine](https://openrefine.org/) is a powerful open-source tool for cleaning, transforming, and extending data, including Wikibase instances.
-
----
-
-<img src="assets/logos/The_QA_Company.png" alt="The QA Company logo" style="height: 2.6em;">
-{: .float-right .ml-6}
-
-### The QA Company
-
-[The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
 
 ---
 
@@ -149,15 +128,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
-<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
-{: .float-right .ml-6}
-
-### Wikibase Consultancy
-
-[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
-
----
-
 <img src="assets/logos/wmde.svg" alt="Wikimedia Deutschland logo" style="height: 2em;">
 {: .float-right .ml-6}
 
@@ -165,6 +135,44 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 [Wikimedia Deutschland](https://www.wikimedia.de/) was founded in 2004 as the German chapter of the Wikimedia movement and is leading development on Wikibase and Wikidata.
 
+---
+
+## Consultants
+
+---
+
+### Digitaal Werktuig
+[Digitaal Werktuig](https://www.digitaalwerktuig.nl/en/) is a freelance enterprise founded by Maarten Brinkerink (Est. October 2020). Maarten Brinkerink is an expert in digital culture and information processing. He is an experienced project manager, researcher and consultant, working in the cultural heritage sector for over 13 years.
+
+---
+
+### IP Squared
+[IP Squared](https://ip-squared.com) is the consultancy firm of Maarten Zeinstra, IP Lawyer and Information Professional. Maarten does project around information and knowledge management in the public sector.
+
+---
+
+### Micelio
+<img src="assets/logos/miceliorgb.png" alt="micel.io logo" style="height: 3em;">
+{: .float-right .ml-6}
+[Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
+
+---
+
+<img src="assets/logos/The_QA_Company.png" alt="The QA Company logo" style="height: 2.6em;">
+{: .float-right .ml-6}
+
+### The QA Company
+
+[The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
+
+---
+
+<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
+{: .float-right .ml-6}
+
+### Wikibase Consultancy
+
+[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
 
 ---
 
@@ -183,9 +191,7 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 * Lane Rasberry, School of Data Science at the University of Virginia
 * Laurence 'GreenReaper' Parry, Wikibase Community User Group
 * Lucy Hinnie, British Library
-* Maarten Brinkerink, Digitaal Werktuig
 * Maarten Trekels, Meise Botanic Garden
-* Maarten Zeinstra, IP Squared
 * Max Kristen, LMU Munich
 * Núria Queralt Rosinach, Leiden University Medical Center  
 * Okko Vainonen, National Library of Finland
