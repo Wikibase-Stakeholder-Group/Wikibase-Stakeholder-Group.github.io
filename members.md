@@ -142,6 +142,8 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 ---
 
 ### Digitaal Werktuig
+<img src="assets/logos/Digitaalwerktuig_oranje_lowres_RGB.png" alt="Digitaal Werktuig logo" style="height: 2.5em;">
+{: .float-right .ml-6}
 [Digitaal Werktuig](https://www.digitaalwerktuig.nl/en/) is a freelance enterprise founded by Maarten Brinkerink (Est. October 2020). Maarten Brinkerink is an expert in digital culture and information processing. He is an experienced project manager, researcher and consultant, working in the cultural heritage sector for over 13 years.
 
 ---
