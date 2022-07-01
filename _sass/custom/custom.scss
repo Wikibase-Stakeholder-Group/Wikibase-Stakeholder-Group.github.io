@@ -1,3 +1,14 @@
+@media (prefers-color-scheme: dark) {
+  .search-input {
+    color: $grey-lt-300;
+    &::placeholder {
+      color: $grey-dk-000;
+    }
+  }
+}
+
+
+
 .site-header, .main-header {
   height: 110px;
   max-height: initial;
@@ -48,6 +59,14 @@ table.budget {
   td.sum {
     text-align: right;
     font-family: "SFMono-Regular",Menlo,Consolas,Monospace
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  table.budget {
+    th {
+      background: $grey-dk-100;
+    }
   }
 }
 
@@ -108,6 +127,21 @@ table.scopes {
 
 }
 
+@media (prefers-color-scheme: dark) {
+  table.scopes {
+    tr.feature-group td {
+      background: $grey-dk-300;
+    }
+    tr.project {
+      &:hover {
+        td {
+          background-color: $grey-dk-100;
+        }
+      }
+    }
+  }
+}
+
 /* -------------------------------- */
 
 span.tickbox {
@@ -137,3 +171,4 @@ span.tickbox {
     }
   }
 }
+
