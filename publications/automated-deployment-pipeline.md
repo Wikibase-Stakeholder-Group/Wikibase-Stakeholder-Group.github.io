@@ -1,6 +1,7 @@
 ---
 title: An automated Wikibase deployment pipeline for research data management
 layout: default
+nav_exclude: true
 last_modified_date: 2022-07-05
 description: Intentions and methods for deploying Wikibase test and production instances at the Open Science Lab, TIB – Leibniz Information Centre for Science and Technology
 ---
