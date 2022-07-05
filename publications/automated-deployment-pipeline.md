@@ -1,6 +1,5 @@
 ---
 title: An automated Wikibase deployment pipeline for research data management
-parent: Publications
 nav_order: 1
 layout: default
 last_modified_date: 2022-07-05
@@ -13,6 +12,8 @@ description: Intentions and methods for deploying Wikibase test and production i
 ### Intentions and methods for deploying [Wikibase](https://wikiba.se/) test and production instances at the [Open Science Lab](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science), [TIB – Leibniz Information Centre for Science and Technology](https://www.tib.eu/de/)
 
 As part of our work in the context of [NFDI4Culture](https://nfdi4culture.de/), a project aimed at setting out standards, guidelines and practical implementations of infrastructure for research data management, the [Open Science Lab](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science) have been engaging with the construction of a reliable and configurable [deployment process for Wikibase](https://gitlab.com/nfdi4culture/ta5-knowledge-graph/wikibase-deploy). The requirements themselves have grown organically based on research needs in the context of facilitating [LOD management and the annotation of complex media objects](https://zenodo.org/record/5628847), and includes significant modification from the [example Wikibase installation](https://github.com/wmde/wikibase-release-pipeline/tree/main/example) configuration provided by [WMDE](https://wikimedia.de/). Our method of deployment has also matured from a collection of terminal commands to a fully-automated [Ansible](https://www.ansible.com/) playbook.  
+
+<img src="assets/images/Deployment_pipeline_post-image.png" alt="Simple diagram of the deployment pipeline">
 
 ## Deployment 
 
