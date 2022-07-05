@@ -8,6 +8,9 @@ description: Intentions and methods for deploying Wikibase test and production i
 
 
 # An automated Wikibase deployment pipeline for research data management
+<br>
+_By Paul Duchesne, Open Science Lab, TIB_
+<br>
 
 ### Intentions and methods for deploying [Wikibase](https://wikiba.se/) test and production instances at the [Open Science Lab](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/open-science), [TIB – Leibniz Information Centre for Science and Technology](https://www.tib.eu/de/)
 <br>
