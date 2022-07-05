@@ -8,7 +8,6 @@ description: Intentions and methods for deploying Wikibase test and production i
 
 
 # An automated Wikibase deployment pipeline for research data management
-<br>
 _By Paul Duchesne, Open Science Lab, TIB_
 <br>
 
