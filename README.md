@@ -8,4 +8,4 @@ To run locally:
 * start the `run.sh` file `./run.sh`
 * visit [http://localhost:4000](http://localhost:4000)
 
-Custom css in `_sass/custom/custom.sass`
+If you don't have the right ruby and Jekyll versions installed on your system, start the test server in a Docker container instead via `./serve.sh`.
