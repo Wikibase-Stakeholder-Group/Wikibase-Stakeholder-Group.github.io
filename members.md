@@ -172,7 +172,7 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 [Wikibase hosting](https://professional.wiki/en/hosting/wikibase), [Wikibase installation](https://www.wikibase.consulting/wikibase-services/)
 and other [Wikibase services](https://www.wikibase.consulting/wikibase-services/).
 
-Professional Wiki is [run by creators of Wikibase and MediaWiki](https://www.wikibase.consulting/about-the-wikibase-team/). Projects include creation of
+Professional Wiki is [run by creators of Wikibase and MediaWiki](https://www.wikibase.consulting/about-the-wikibase-team/). Its projects include creation of
 [Wikibase EDTF](https://www.wikibase.consulting/wikibase-edtf/) and [Automated Values](https://www.wikibase.consulting/automating-values-in-wikibase/) for the Luxembourg Ministry of Culture and [GND tooling](https://github.com/ProfessionalWiki/GND) for the German National Library. Professional Wiki hosts several Wikibase wikis for its clients.
 
 [The Wikibase Consultancy](https://wikibase.consulting/) is a Wikibase focused brand and website of Professional Wiki.
