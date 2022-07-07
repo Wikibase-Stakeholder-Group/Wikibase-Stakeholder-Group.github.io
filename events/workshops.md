@@ -3,7 +3,7 @@ title: Workshops
 parent: Events
 nav_order: 1
 layout: default
-last_modified_date: 2022-07-05
+last_modified_date: 2022-07-07
 description: Index of workshops and related documentation
 ---
 
