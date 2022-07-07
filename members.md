@@ -163,21 +163,28 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
+<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
+{: .float-right .ml-6}
+
+### Professional Wiki / The Wikibase Consultancy
+
+[Professional Wiki](https://professional.wiki/) provides managed [MediaWiki hosting](https://www.pro.wiki/),
+[Wikibase hosting](https://professional.wiki/en/hosting/wikibase), [Wikibase installation](https://www.wikibase.consulting/wikibase-services/)
+and other [Wikibase services](https://www.wikibase.consulting/wikibase-services/).
+
+Professional Wiki is [run by creators of Wikibase and MediaWiki](https://www.wikibase.consulting/about-the-wikibase-team/). Projects include creation of
+[Wikibase EDTF](https://www.wikibase.consulting/wikibase-edtf/) and [Automated Values](https://www.wikibase.consulting/automating-values-in-wikibase/) for the Luxembourg Ministry of Culture and [GND tooling](https://github.com/ProfessionalWiki/GND) for the German National Library. Professional Wiki hosts several Wikibase wikis for its clients.
+
+[The Wikibase Consultancy](https://wikibase.consulting/) is a Wikibase focused brand and website of Professional Wiki.
+
+---
+
 <img src="assets/logos/The_QA_Company.png" alt="The QA Company logo" style="height: 2.6em;">
 {: .float-right .ml-6}
 
 ### The QA Company
 
 [The QA Company](https://the-qa-company.com/) is a company specialized in setup, mantainence and data ingestion of Wikibase instances. It currently mantainces the Wikibase instance of the European Commission known as the [EU Knowledge Graph](https://knowledgegraph.eu/). The QA Company also offers a Question Answering solution over Wikibase instances using it's QAnswer technology. 
-
----
-
-<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
-{: .float-right .ml-6}
-
-### Wikibase Consultancy
-
-[Wikibase Consultancy](https://wikibase.consulting/) is a collective providing consulting services and solutions on top of Wikibase.
 
 ---
 
