@@ -38,14 +38,18 @@ table.budget {
 
   th {
     background: $grey-lt-000;
+    vertical-align: top;
+    &.position {
+      text-align: left;
+    }
+    &.Rhizome {
+      text-align: right;
+    }
   }
 
-  th {
-    vertical-align: top;
-  }
   td {
     vertical-align: top;
-    font-stretch: condensed;
+    //font-stretch: condensed;
   }
 
   td.balance {
