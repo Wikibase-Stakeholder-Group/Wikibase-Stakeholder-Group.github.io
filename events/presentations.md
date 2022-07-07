@@ -115,7 +115,7 @@ Lightning talk by Sam Alipio and Adam Shorland (WMDE)
 - [Video documentation](https://www.youtube.com/watch?v=GJ8rE-7F-zs)
 - [Online notes](https://etherpad.wikimedia.org/p/r.00056b12cf21b5fc8830a51bdd127fe3)
 
-### "A Wikibase for what?" - diverse users at the edge of the graph
+### "A Wikibase for what?" --- diverse users at the edge of the graph
 Lightning talk by Laurence "GreenReaper" Parry (WBUG)
 - [Video documentation](https://www.youtube.com/watch?v=UPsTEbxZZpQ)
 - [Online notes](https://etherpad.wikimedia.org/p/r.5cbe424de2d3f24f755164995f8686c2)
