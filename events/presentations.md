@@ -25,11 +25,11 @@ Members of the Wikibase Stakeholder Group have presented at the following events
 
 
 
-----
+---
 
 ## FOSDEM 2022
 
-[FOSDEM2022](https://fosdem.org/2022/), online conference, 5-6 February 2022
+[FOSDEM2022](https://fosdem.org/2022/), online conference, 2022-02-05 - 06
 
 
 ### Sustainable community building with the Wikibase Stakeholder Group
@@ -41,9 +41,10 @@ Talk by Lozana Rossenova (Open Science Lab, TIB) and Dragan Espenschied (Rhizome
 - [Video of presentation](https://video.rhizome.org/w/6a64zcTRsHgfCfCGpyzNsv)
 - [Video of panel discussion](https://video.rhizome.org/w/6a64zcTRsHgfCfCGpyzNsv)
 
+---
 
 ## SWIB 2021
-[13th Semantic Web in Libraries Conference](https://swib.org/swib21/), online conference, 29 November-03 December 2021
+[13th Semantic Web in Libraries Conference](https://swib.org/swib21/), online conference, 2021-11-03 - 2021-12-03
 
 ### Representing the Luxembourg Shared Authority File based on CIDOC-CRM in Wikibase
 Presentation by Jose Emilio Labra Gayo (University of Oviedo, Spain), Michelle Pfeiffer (Centre national de recherche archéologique, Luxembourg), Andra Waagmeester (Micelio), Maarten Zeinstra (IP Squared), Maarten Brinkerink (Digitaal Werktuig), Joël Thill (Archives Nationales de Luxembourg), and Christel Kayser (Bibliothèque nationale de Luxembourg). 
@@ -51,9 +52,11 @@ Presentation by Jose Emilio Labra Gayo (University of Oviedo, Spain), Michelle P
 - [Video documentation](https://youtu.be/MDjyiYrOWJQ)
 
 
+---
+
 ## WikidataCon 2021
 
-[WDC 2021](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2021), A sustainable future for Wikidata, online conference, 29-30-31 October 2021
+[WDC 2021](https://www.wikidata.org/wiki/Wikidata:WikidataCon_2021), A sustainable future for Wikidata, online conference, 2021-10-29 - 31
 
 The 2021 edition of WikidataCon featured an entire track of talks and presentations focused on Wikibase, cureated by Lozana Rossenova (Open Science Lab, TIB & WBSG) and Laurence "GreenReaper" Parry (WBUG). Below is the complete list of talks presented by members of the Stakeholder Group, alongside documentation links.
 
@@ -116,21 +119,3 @@ Lightning talk by Sam Alipio and Adam Shorland (WMDE)
 Lightning talk by Laurence "GreenReaper" Parry (WBUG)
 - [Video documentation](https://www.youtube.com/watch?v=UPsTEbxZZpQ)
 - [Online notes](https://etherpad.wikimedia.org/p/r.5cbe424de2d3f24f755164995f8686c2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
