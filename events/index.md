@@ -14,6 +14,4 @@ The Wikibase Stakeholder Group and its members organize and participate in a ran
 
 Related documentation:
 
-- [Workshops](workshops)
-- [Presentations](presentations)
-- Minutes from members' monthly meetings (coming soon)
+{% include subpages.html %}

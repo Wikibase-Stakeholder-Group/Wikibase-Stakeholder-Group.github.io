@@ -1,0 +1,15 @@
+{% assign subpages = "" | split: "" %}
+{% for p in site.pages %}
+    {% if p.parent == page.title %}
+        {% assign subpages = subpages | push: p %}
+    {% endif %}
+{% endfor %}
+{% assign subpages_sorted = subpages | sort: "nav_order" %}
+<ul class="subpages">
+{% for p in subpages_sorted %}
+<li>
+    <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+    <div class="description">{{ p.description }}</div>
+</li>
+{% endfor %}
+</ul>
