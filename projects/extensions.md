@@ -24,7 +24,7 @@ Commissioned by
 : [Rhizome](/members#rhizome)
 
 Implemented by
-: [Wikibase Consultancy](/members#wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
 
 License
 : GPL 2.0
@@ -44,7 +44,7 @@ Commissioned by
 : Luxembourg Ministry of Culture, via [Digitaal Werktuig](/members#digitaal-werktuig) & [IP Squared](members#ip-squared)
 
 Implemented by
-: [Wikibase Consultancy](/members#wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
 
 License
 : GPL 2.0
@@ -63,7 +63,7 @@ Commissioned by
 : Luxembourg Ministry of Culture, via [Digitaal Werktuig](/members#digitaal-werktuig) & [IP Squared](members#ip-squared)
 
 Implemented by
-: [Wikibase Consultancy](/members#wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
 
 License
 : GPL 2.0
@@ -73,6 +73,25 @@ Initial release
 
 Availability
 : [GitHub](https://github.com/ProfessionalWiki/AutomatedValues)
+
+## Wikibase RDF
+
+Wikibase RDF is a MediaWiki extension that allows defining RDF mappings for Wikibase Entities.
+
+Commissioned by
+: [Rhizome](/members#rhizome) via the Wikibase Stakeholders Group
+
+Implemented by
+: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
+
+License
+: GPL 2.0
+
+Initial release
+: TDB - still in development
+
+Availability
+: [GitHub](https://github.com/ProfessionalWiki/WikibaseRDF)
 
 [Wikibase Local Media]: https://github.com/ProfessionalWiki/WikibaseLocalMedia#wikibase-local-media
 [Wikibase EDTF]: https://github.com/ProfessionalWiki/WikibaseEdtf#wikibase-edtf
