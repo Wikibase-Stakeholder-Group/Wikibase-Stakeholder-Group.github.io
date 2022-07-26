@@ -27,16 +27,16 @@ Members of the Wikibase Stakeholder Group have presented at the following events
 
 ##  Netherlands Wikibase Knowledge Group
 ### 3rd meeting, 22 July 2022
-* [KB Wikibase.cloud unboxing experience, July 2022](https://commons.wikimedia.org/wiki/File:KB_Wikibase.cloud_Unboxing_Experience,_Netherlands_Wikibase_Knowlegde_Group,_22-07-2022.pdf). Experiences and first impressions of the KB, national library of the Netherlands, with unboxing, setting up, configuring and tweaking their [Wikibase.cloud test instance](https://kbtestwikibase.wikibase.cloud/wiki/Main_Page). Also available on [Slideshare](https://www.slideshare.net/OlafJanssenNL/kb-wikibasecloud-unboxing-experience-netherlands-wikibase-knowlegde-group-22072022). By Olaf Janssen (KB).
-* [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Recent_Wikibase_Developments_May-July_2022,_Netherlands_Wikibase_Knowlegde_Group,_22-07-2022.pdf), period May-June-July 2022. By Olaf Janssen (KB).
+* [KB Wikibase.cloud unboxing experience, July 2022](https://commons.wikimedia.org/wiki/File:KB_Wikibase.cloud_Unboxing_Experience,_Netherlands_Wikibase_Knowlegde_Group,_22-07-2022.pdf). Experiences and first impressions of the KB, national library of the Netherlands, with unboxing, setting up, configuring and tweaking their [Wikibase.cloud test instance](https://kbtestwikibase.wikibase.cloud/wiki/Main_Page). Also available on [Slideshare](https://www.slideshare.net/OlafJanssenNL/kb-wikibasecloud-unboxing-experience-netherlands-wikibase-knowlegde-group-22072022). By Olaf Janssen (KB, national library of the Netherlands).
+* [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Recent_Wikibase_Developments_May-July_2022,_Netherlands_Wikibase_Knowlegde_Group,_22-07-2022.pdf), period May-June-July 2022. By Olaf Janssen (KB, national library of the Netherlands).
 * [OpenRefine and Wikibase: Status and plans 2022](https://docs.google.com/presentation/d/1ND4OOFBOB7a2FQyeEkeKexZaNY-mRcRGiG9GIp2VHEQ/edit#slide=id.p). By Sandra Fauconnier (OpenRefine).  
 * [Report & agenda](https://docs.google.com/document/d/181nR62GDwZvTfXB7pdy9OEW79wmxqminkeMasPeaZNw/edit)
 ### 2nd meeting, 18 May 2022
-* [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Wikibase_developments_March-April-May_2022_-_Netherlands_Wikibase_Knowledge_Group,_2nd_meeting,_18-05-2022.pdf), period March-April-May 2022. By Olaf Janssen (KB).
+* [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Wikibase_developments_March-April-May_2022_-_Netherlands_Wikibase_Knowledge_Group,_2nd_meeting,_18-05-2022.pdf), period March-April-May 2022. By Olaf Janssen (KB, national library of the Netherlands).
 * [Introduction to the LUDAP project in Luxemburg](https://docs.google.com/presentation/d/1iHNIBesFLXPdT5fy3pjXqd1hUp9inVdSDadWvL5K3tM/edit#). By Maarten Zeinstra (IP Squared) and Maarten Brinkerink (Digitaal Werktuig).
 * [Report & agenda](https://docs.google.com/document/d/1vRXKD4rPGv4dZO9ahjgQOO1FwVHw1o54jDvUNcHdAyg/edit)
 ### Kick-off meeting, 11 March 2022
-* [Global overview of the Wikibase landscape and ecosystem](https://commons.wikimedia.org/wiki/File:Overview_Wikibase_landscape_-_Netherlands_Wikibase_Knowledge_Group,_kickoff_meeting,_11-03-2022.pdf), per March 2022. Also available on [Slideshare](https://www2.slideshare.net/OlafJanssenNL/overview-wikibase-landscape-netherlands-wikibase-knowledge-group-kickoff-meeting-11032022). By Olaf Janssen (KB).
+* [Global overview of the Wikibase landscape and ecosystem](https://commons.wikimedia.org/wiki/File:Overview_Wikibase_landscape_-_Netherlands_Wikibase_Knowledge_Group,_kickoff_meeting,_11-03-2022.pdf), per March 2022. Also available on [Slideshare](https://www2.slideshare.net/OlafJanssenNL/overview-wikibase-landscape-netherlands-wikibase-knowledge-group-kickoff-meeting-11032022). By Olaf Janssen (KB, national library of the Netherlands).
 * [Report & agenda](https://docs.google.com/document/d/1BbWNblkiPkHAcUfEGTxa2PO3bX1Q9HPqCOXbifrHEW0/edit)
 
 ---
