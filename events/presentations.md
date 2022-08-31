@@ -24,8 +24,8 @@ Members of the Wikibase Stakeholder Group have presented at the following events
 </details>
 
 ---
-## WikiConNL 2022
-[WikiConNL 2022](https://nl.wikimedia.org/wiki/WikiconNL_2022), LocationTBD, The Netherlands, 2022-11-19 
+## WikiconNL 2022
+[WikiconNL 2022](https://nl.wikimedia.org/wiki/WikiconNL_2022), LocationTBD, The Netherlands, 2022-11-19 
 
 The annual conference in the Netherlands on Wikipedia, Wikimedia, digital heritage and topics such as copyright and (linked) open data 
 
