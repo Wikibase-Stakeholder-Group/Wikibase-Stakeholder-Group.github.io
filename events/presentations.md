@@ -35,7 +35,8 @@ Presentation (20 mins) by Olaf Janssen (KB, national library of the Netherlands)
 
 
 ##  Netherlands Wikibase Knowledge Group
-### 4th meeting, September 2022
+### 4th meeting, November 2022 
+(the September meeting was canceled)
 * To be communicated
 * [Report & agenda]()
 
