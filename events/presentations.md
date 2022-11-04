@@ -29,16 +29,12 @@ Members of the Wikibase Stakeholder Group have presented at the following events
 
 The annual conference in the Netherlands on Wikipedia, Wikimedia, digital heritage and topics such as copyright and (linked) open data 
 
-### Global overview of the Wikibase landscape and ecosystem
-Presentation (20 mins) by Olaf Janssen (KB, national library of the Netherlands).
-- Slides on [Wikimedia Commons]() and [Slideshare]()
-
 
 ##  Netherlands Wikibase Knowledge Group
-### 4th meeting, November 2022 
+### 4th meeting, 23 November 2022 
 (the September meeting was canceled)
-* To be communicated
-* [Report & agenda]()
+* to add
+* [Report & agenda](https://docs.google.com/document/d/1WPKXuTWJ6-XUCFIRx7e5R88eVd4CnZ_bBpS8Sts5Agg/edit?pli=1)
 
 ### 3rd meeting, 22 July 2022
 * [KB Wikibase.cloud unboxing experience, July 2022](https://commons.wikimedia.org/wiki/File:KB_Wikibase.cloud_Unboxing_Experience,_Netherlands_Wikibase_Knowlegde_Group,_22-07-2022.pdf). Experiences and first impressions of the KB, national library of the Netherlands, with unboxing, setting up, configuring and tweaking their [Wikibase.cloud test instance](https://kbtestwikibase.wikibase.cloud/wiki/Main_Page). Also available on [Slideshare](https://www.slideshare.net/OlafJanssenNL/kb-wikibasecloud-unboxing-experience-netherlands-wikibase-knowlegde-group-22072022). By Olaf Janssen (KB, national library of the Netherlands).
