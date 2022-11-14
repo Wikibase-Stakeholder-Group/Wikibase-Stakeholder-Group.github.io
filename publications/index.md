@@ -13,6 +13,7 @@ The Wikibase Stakeholder Group and its members frequently publish the results of
 
 Below you will find an index of recent publications:
 
+- [Final Report: Review of Beyond Notability](https://zenodo.org/record/7266780)) <i class="fa fa-external-link" aria-hidden="true"></i> by Maarten Zeinstra (IP Squared), Maarten Brinkerink (Digitaal Werktuig) (October, 2022)
 - [An automated Wikibase deployment pipeline for research data management](automated-deployment-pipeline) by Paul Duchesne, Open Science Lab, TIB (July, 2022)
 - [Wikidata and Wikibase as complementary research services for cultural heritage data](https://blogs.tib.eu/wp/tib/2022/03/17/wikidata-and-wikibase-as-complementary-research-services-for-cultural-heritage-data/) <i class="fa fa-external-link" aria-hidden="true"></i> by Paul Duchesne, Open Science Lab, TIB (March, 2022)
 - [Examining Wikidata and Wikibase in the context of research data management applications](https://blogs.tib.eu/wp/tib/2022/03/16/examining-wikidata-and-wikibase-in-the-context-of-research-data-management-applications/) <i class="fa fa-external-link" aria-hidden="true"></i> by Lozana Rossenova, Open Science Lab, TIB (March, 2022)
