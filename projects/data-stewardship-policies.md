@@ -14,7 +14,7 @@ The Wikibase Stakeholder Group surveyed its members about data management polici
 
 In the table below policies are expressed in columns A to E, and distinguished by different abilities for "members" of a community (checkboxes in green) and "non-members" or "anyone" (checkboxes in blue). Every project has its own way of defining the boundary of its community.
 
-The term "outside repository" is used from the perspective of a Wikibase project for any linked open data repositor that is not stewarded by the project. This includes, but it not limited to, Wikidata.
+The term "outside repository" is used from the perspective of a Wikibase project for any linked open data repository that is not stewarded by the project. This includes, but it not limited to, Wikidata.
 
 This survey data might be updated in the future.
 
