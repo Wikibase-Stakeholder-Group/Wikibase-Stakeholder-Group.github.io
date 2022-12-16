@@ -40,6 +40,7 @@ Members of the Wikibase Stakeholder Group have presented at the following events
 * [Report & agenda](https://docs.google.com/document/d/181nR62GDwZvTfXB7pdy9OEW79wmxqminkeMasPeaZNw/edit)  (in Dutch).
 ### 2nd meeting, 18 May 2022
 * [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Wikibase_developments_March-April-May_2022_-_Netherlands_Wikibase_Knowledge_Group,_2nd_meeting,_18-05-2022.pdf), period March-April-May 2022. By Olaf Janssen (KB, national library of the Netherlands).
+* [Wikibase in the Kunstmuseum Den Haag / delftsaardewerk.nl](https://docs.google.com/presentation/d/16lGxQ9_b7OFPyZ1SBOPB_m_xD1LJ9ODWqZg49Hju3-k/edit#slide=id.p). By Hanno Lans and Vincent de Keijzer (Kunstmuseum Den Haag)
 * [Introduction to the LUDAP project in Luxemburg](https://docs.google.com/presentation/d/1iHNIBesFLXPdT5fy3pjXqd1hUp9inVdSDadWvL5K3tM/edit#). By Maarten Zeinstra (IP Squared) and Maarten Brinkerink (Digitaal Werktuig).
 * [Report & agenda](https://docs.google.com/document/d/1vRXKD4rPGv4dZO9ahjgQOO1FwVHw1o54jDvUNcHdAyg/edit)  (in Dutch).
 ### Kick-off meeting, 11 March 2022
