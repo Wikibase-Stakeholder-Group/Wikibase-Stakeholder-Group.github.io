@@ -98,7 +98,7 @@ Availability
 Wikibase Export is a MediaWiki extension that allows exporting data as simple CSV.
 
 Commissioned by
-: [UB Mannheim](/members#ub-mannheim) via the Wikibase Stakeholders Group
+: [UB Mannheim](/members#ub-mannheim)
 
 Implemented by
 : [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
