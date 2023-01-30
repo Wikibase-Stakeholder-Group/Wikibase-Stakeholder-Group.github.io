@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Extensions
-last_modified_date: 2022-07-05
+last_modified_date: 2023-01-30
 description: Wikibase extensions that have been produced by group members
 parent: Projects
-nav_order: 4
+nav_order: 5
 
 ---
 
@@ -88,10 +88,29 @@ License
 : GPL 2.0
 
 Initial release
-: TDB - still in development
+: 2022
 
 Availability
 : [GitHub](https://github.com/ProfessionalWiki/WikibaseRDF)
+
+## Wikibase Export
+
+Wikibase Export is a MediaWiki extension that allows exporting data as simple CSV.
+
+Commissioned by
+: [UB Mannheim](/members#ub-mannheim) via the Wikibase Stakeholders Group
+
+Implemented by
+: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
+
+License
+: GPL 2.0
+
+Initial release
+: TDB - still in development
+
+Availability
+: [GitHub](https://github.com/ProfessionalWiki/WikibaseExport)
 
 [Wikibase Local Media]: https://github.com/ProfessionalWiki/WikibaseLocalMedia#wikibase-local-media
 [Wikibase EDTF]: https://github.com/ProfessionalWiki/WikibaseEdtf#wikibase-edtf
