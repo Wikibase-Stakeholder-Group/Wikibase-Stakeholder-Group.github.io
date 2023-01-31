@@ -139,9 +139,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ## Consultants
 
-<img src="assets/logos/Digitaalwerktuig_oranje_lowres_RGB.png" alt="The Digitaal Werktuig logo" style="height: 2.6em;">
-{: .float-right .ml-6}
-
 ---
 
 ### Digitaal Werktuig
