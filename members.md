@@ -141,6 +141,26 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
+<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
+{: .float-right .ml-6}
+
+### Professional Wiki
+
+[Professional Wiki](https://professional.wiki/) provides
+[Wikibase software development](https://professional.wiki/en/wikibase-software-development),
+[Wikibase cloud hosting](https://www.pro.wiki/wikibase-hosting),
+[MediaWiki cloud hosting](https://www.pro.wiki/),
+[Tailored Wikibase hosting](https://professional.wiki/en/hosting/wikibase),
+[Wikibase installation](https://www.wikibase.consulting/wikibase-services/),
+and other [Wikibase services](https://www.wikibase.consulting/wikibase-services/).
+
+Professional Wiki has created 8+ [Wikibase extensions](https://professional.wiki/en/wikibase-software-development#Extensions) and is run by one of the creators of MediaWiki and Wikibase. Its projects include creation of
+[Wikibase EDTF](https://www.wikibase.consulting/wikibase-edtf/) and [Automated Values](https://www.wikibase.consulting/automating-values-in-wikibase/) for the Luxembourg Ministry of Culture. [Learn more](https://professional.wiki/en/wikibase-software-development#About-Professional-Wiki).
+
+[The Wikibase Consultancy](https://wikibase.consulting/) is Professional Wiki's Wikibase focused brand.
+
+---
+
 ### Digitaal Werktuig
 <img src="assets/logos/Digitaalwerktuig_oranje_lowres_RGB.png" alt="Digitaal Werktuig logo" style="height: 2.5em;">
 {: .float-right .ml-6}
@@ -157,22 +177,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 <img src="assets/logos/miceliorgb.png" alt="micel.io logo" style="height: 3em;">
 {: .float-right .ml-6}
 [Micelio.be](http://www.micelio.be), a consultancy and project participant in the field of open data, semantic web, FAIR, wikidata and Wikibase.
-
----
-
-<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
-{: .float-right .ml-6}
-
-### Professional Wiki / The Wikibase Consultancy
-
-[Professional Wiki](https://professional.wiki/) provides managed [MediaWiki hosting](https://www.pro.wiki/),
-[Wikibase hosting](https://professional.wiki/en/hosting/wikibase), [Wikibase installation](https://www.wikibase.consulting/wikibase-services/)
-and other [Wikibase services](https://www.wikibase.consulting/wikibase-services/).
-
-Professional Wiki is [run by creators of Wikibase and MediaWiki](https://www.wikibase.consulting/about-the-wikibase-team/). Its projects include creation of
-[Wikibase EDTF](https://www.wikibase.consulting/wikibase-edtf/) and [Automated Values](https://www.wikibase.consulting/automating-values-in-wikibase/) for the Luxembourg Ministry of Culture and [GND tooling](https://github.com/ProfessionalWiki/GND) for the German National Library. Professional Wiki hosts several Wikibase wikis for its clients.
-
-[The Wikibase Consultancy](https://wikibase.consulting/) is a Wikibase focused brand and website of Professional Wiki.
 
 ---
 
