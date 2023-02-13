@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Extensions
-last_modified_date: 2023-01-30
+last_modified_date: 2023-02-13
 description: Wikibase extensions that have been produced by group members
 parent: Projects
 nav_order: 5
@@ -107,7 +107,7 @@ License
 : GPL 2.0
 
 Initial release
-: TDB - still in development
+: 2023 - release announcement: [New extension: Wikibase Export](https://professional.wiki/en/news/wikibase-export-released)
 
 Availability
 : [GitHub](https://github.com/ProfessionalWiki/WikibaseExport)
