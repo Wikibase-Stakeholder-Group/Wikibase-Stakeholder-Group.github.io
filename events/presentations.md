@@ -28,8 +28,8 @@ Members of the Wikibase Stakeholder Group have presented at the following events
 ##  Netherlands Wikibase Knowledge Group
 
 ### 5th meeting, 15 March 2023 
-* [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Recent_Wikibase_Developments_December_2022-March_2023,_Netherlands_Wikibase_Knowlegde_Group,_14-03-2023.pdf), period December 2022-March 2023. By Olaf Janssen (KB, national library of the Netherlands).
-* [Report & agenda] to follow a.s.a.p. (in Dutch).
+* [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Recent_Wikibase_Developments_December_2022-March_2023,_Netherlands_Wikibase_Knowlegde_Group,_15-03-2023.pdf), period December 2022-March 2023. By Olaf Janssen (KB, national library of the Netherlands).
+* [Report & agenda](https://docs.google.com/document/d/1WfdP0CV-6Taa_aTr1HTVt5xdAcesxToZKMt5gqmgFZo/edit) - concept (in Dutch).
 
 ### 4th meeting, 23 November 2022 
 * [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Recent_Wikibase_Developments_July-November_2022,_Netherlands_Wikibase_Knowlegde_Group,_23-11-2022.pdf), period July-November 2022. By Olaf Janssen (KB, national library of the Netherlands).
