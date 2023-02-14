@@ -26,6 +26,11 @@ Members of the Wikibase Stakeholder Group have presented at the following events
 ---
 
 ##  Netherlands Wikibase Knowledge Group
+
+### 5th meeting, 14 March 2023 
+* [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Recent_Wikibase_Developments_December_2022-March2023,_Netherlands_Wikibase_Knowlegde_Group,_14-03-2023.pdf), period December 2022-March 2023. By Olaf Janssen (KB, national library of the Netherlands).
+* [Report & agenda] to follow a.s.a.p. (in Dutch).
+
 ### 4th meeting, 23 November 2022 
 * [Overview of recent Wikibase developments](https://commons.wikimedia.org/wiki/File:Recent_Wikibase_Developments_July-November_2022,_Netherlands_Wikibase_Knowlegde_Group,_23-11-2022.pdf), period July-November 2022. By Olaf Janssen (KB, national library of the Netherlands).
 * [Setting up your own Wikibase reconciliation service (e.g. for OpenRefine)](https://commons.wikimedia.org/wiki/File:Setting_up_your_own_Wikibase_reconciliation_service_(e.g._for_OpenRefine)_-_Netherlands_Wikibase_Knowlegde_Group,_23-11-2022.pdf). By Olaf Janssen (KB, national library of the Netherlands) & Hanno Lans (Kunstmuseum The Hague). Also available on [Slideshare](https://www.slideshare.net/OlafJanssenNL/setting-up-your-own-wikibase-reconciliation-service-eg-for-openrefine-netherlands-wikibase-knowlegde-group-23112022).
