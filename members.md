@@ -110,6 +110,15 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
+<img src="assets/logos/kompetenz_logo_2016_farbig_1000px.png" alt="Trier Center for Digital Humanities logo" style="height: 2.6em;">
+{: .float-right .ml-6}
+
+### Trier Center for Digital Humanities
+
+ [The Trier Center for Digital Humanities (TCDH)](https://tcdh.uni-trier.de/), founded in 1998 and located at the University of Trier, performs research in the areas of Digital Editing, Digital Lexicography, Research Software Engineering, and Computational Literary and Cultural Studies..
+
+---
+
 <img src="assets/logos/ub-mannheim.png" alt="UB Mannheim logo" style="height: 2.5em;">
 {: .float-right .ml-6}
 
