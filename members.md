@@ -150,9 +150,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
-<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
-{: .float-right .ml-6}
-
 ### Digitaal Werktuig
 <img src="assets/logos/Digitaalwerktuig_oranje_lowres_RGB.png" alt="Digitaal Werktuig logo" style="height: 2.5em;">
 {: .float-right .ml-6}
@@ -173,6 +170,8 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 ---
 
 ### Professional Wiki
+<img src="assets/logos/wikibase-consultancy.svg" alt="Wikibase Consultancy logo" style="height: 2em;">
+{: .float-right .ml-6}
 
 [Professional Wiki](https://professional.wiki/) provides
 [Wikibase software development](https://professional.wiki/en/wikibase-software-development),
