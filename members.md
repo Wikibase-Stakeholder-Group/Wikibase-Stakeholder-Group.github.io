@@ -128,15 +128,6 @@ The [Semantic Lab](https://semlab.io/) at Pratt serves as an incubator for the d
 
 ---
 
-<img src="assets/logos/weso.png" alt="WESO Research Group logo" style="height: 2em;">
-{: .float-right .ml-6}
-
-### WESO Research Group
-
-[WESO](https://www.weso.es/) is a research group at the University of Oviedo founded in 2004 with a focus on semantic web, education and technology transfer.
-
----
-
 <img src="assets/logos/wmde.svg" alt="Wikimedia Deutschland logo" style="height: 2em;">
 {: .float-right .ml-6}
 
@@ -204,21 +195,13 @@ Professional Wiki has created 8+ [Wikibase extensions](https://professional.wiki
 * David Fichtmueller, Botanic Garden and Botanical Museum (BGBM) Berlin
 * David Lindemann, UPV/EHU University of the Basque Country
 * Frieder Leipold, KU Leuven
-* Graham Jevon, British Library
 * Jackie Shieh, Smithsonian Libraries & Archives
 * James Baker,  Digital Humanities Hub, University of Southampton
-* Jasper Koehorst, Wageningen University
-* Jeff Mixter, OCLC Research
-* Lane Rasberry, School of Data Science at the University of Virginia
 * Laurence 'GreenReaper' Parry, Wikibase Community User Group
-* Lucy Hinnie, British Library
-* Maarten Trekels, Meise Botanic Garden
 * Max Kristen, LMU Munich
-* Núria Queralt Rosinach, Leiden University Medical Center  
 * Okko Vainonen, National Library of Finland
 * Olaf Janssen, National Library of the Netherlands
-* Paul-Olivier Dehaye, personaldata.io
-* Quentin Groom, Meise Botanic Garden
-* Richard Knipel
 * Ross Spencer, Ravensburger AG
-* Thomas Bauer, German National Library
+* Ruth von dem Bussche
+* Thomas Jenne, FOMU - Fotomuseum Antwerpen
+* Yuhsien Chen
