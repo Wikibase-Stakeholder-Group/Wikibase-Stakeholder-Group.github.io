@@ -8,7 +8,7 @@ last_modified_date: 2022-05-06
 # Group Members
 {: .no_toc}
 
-Membership is open to organizations and individuals that are using Wikibase for relevant work and are willing to provide resources for towards the groups [mission](about#mission). If you're interested in joining, please get in touch via email to `dragan.espenschied@rhizome.org`.
+Membership is open to organizations and individuals that are using Wikibase for relevant work and are willing to provide resources for towards the groups [mission](about#mission). If you're interested in joining, please get in touch via email to `lozana.rossenova@tib.eu` or `dragan.espenschied@rhizome.org`.
 
 1. TOC
 {: toc}
