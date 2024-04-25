@@ -24,7 +24,7 @@ Commissioned by
 : [Rhizome](/members#rhizome)
 
 Implemented by
-: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki)
 
 License
 : GPL 2.0
@@ -44,7 +44,7 @@ Commissioned by
 : Luxembourg Ministry of Culture, via [Digitaal Werktuig](/members#digitaal-werktuig) & [IP Squared](members#ip-squared)
 
 Implemented by
-: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki)
 
 License
 : GPL 2.0
@@ -63,7 +63,7 @@ Commissioned by
 : Luxembourg Ministry of Culture, via [Digitaal Werktuig](/members#digitaal-werktuig) & [IP Squared](members#ip-squared)
 
 Implemented by
-: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki)
 
 License
 : GPL 2.0
@@ -82,7 +82,7 @@ Commissioned by
 : [Rhizome](/members#rhizome) via the Wikibase Stakeholders Group
 
 Implemented by
-: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki)
 
 License
 : GPL 2.0
@@ -95,19 +95,20 @@ Availability
 
 ## Wikibase Export
 
-Wikibase Export is a MediaWiki extension that allows exporting data as simple CSV.
+[Wikibase Export](https://professional.wiki/en/extension/wikibase-export) 
+is a MediaWiki extension that allows Wikibase data to be exported as CSV.
 
 Commissioned by
 : [UB Mannheim](/members#ub-mannheim)
 
 Implemented by
-: [Professional Wiki](/members#professional-wiki--the-wikibase-consultancy)
+: [Professional Wiki](/members#professional-wiki)
 
 License
 : GPL 2.0
 
 Initial release
-: TDB - still in development
+: 2023 - [Release announcement](https://professional.wiki/en/news/wikibase-export-released)
 
 Availability
 : [GitHub](https://github.com/ProfessionalWiki/WikibaseExport)
