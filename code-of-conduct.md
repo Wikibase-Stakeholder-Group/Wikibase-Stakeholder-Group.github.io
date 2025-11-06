@@ -58,7 +58,6 @@ If a participant engages in harassing behavior, the response team may take any a
 
 ## Response Team members
 
-* Lyndsey Jane Moulds
 * Lozana Rossenova
 * Dragan Espenschied
 
