@@ -11,14 +11,14 @@ nav_order: 5
 # Wikibase Extensions
 {: .no_toc}
 
-This page lists all publicly available, open source, ready-to-use Wikibase Extensions produced by members of the stakeholder group that are broadly applicable across disciplines and use cases.
+This page lists all publicly available, open-source, ready-to-use Wikibase Extensions developed by members of the stakeholder group that are broadly applicable across disciplines and use cases.
 
 1. TOC
 {: toc}
 
 ## Wikibase Local Media
 
-Originally, Wikibase can only handle media from Wikimedia Commons, via the "Commons media file" data type. [Wikibase Local Media] adds the data type "Media file," which allows to use Mediawiki's local media repository and management.
+[Wikibase Local Media] adds the data type "Media file," which allows the use of MediaWiki's local media repository and management.
 
 Commissioned by
 : [Rhizome](/members#rhizome)
@@ -37,7 +37,7 @@ Availability
 
 ## Wikibase EDTF
 
-[Wikibase EDTF] adds support for the [Extended Date/Time Format (EDTF) Specification](https://www.loc.gov/standards/datetime/) to Wikibase via a new data type. EDFT can be used to express "unprecise" dates, intervals, and time spans in a single expression. [Wikibase EDTF demo video].
+[Wikibase EDTF] adds support for the [Extended Date/Time Format (EDTF) Specification](https://www.loc.gov/standards/datetime/) to Wikibase via a new data type. EDFT can be used to express "imprecise" dates, intervals, and time spans in a single expression. [Wikibase EDTF demo video].
 
 
 Commissioned by
@@ -57,7 +57,7 @@ Availability
 
 ## Automated Values
 
-[Automated Values] supports data curators to normalize the names items are represented across a data set. Based on an arbitrary ruleset, item labels and aliases are automatically generated based on item statements. [Automated Values demo video].
+[Automated Values] supports data curators in enforcing consistent labels. Using automation rules, item labels and aliases are generated from item statements. [Automated Values demo video].
 
 Commissioned by
 : Luxembourg Ministry of Culture, via [Digitaal Werktuig](/members#digitaal-werktuig) & [IP Squared](members#ip-squared)
@@ -95,8 +95,7 @@ Availability
 
 ## Wikibase Export
 
-[Wikibase Export](https://professional.wiki/en/extension/wikibase-export) 
-is a MediaWiki extension that allows Wikibase data to be exported as CSV.
+[Wikibase Export] is a MediaWiki extension that allows exporting Wikibase data as CSV.
 
 Commissioned by
 : [UB Mannheim](/members#ub-mannheim)
@@ -113,9 +112,10 @@ Initial release
 Availability
 : [GitHub](https://github.com/ProfessionalWiki/WikibaseExport), [ProWiki]
 
-[Wikibase Local Media]: https://github.com/ProfessionalWiki/WikibaseLocalMedia#wikibase-local-media
-[Wikibase EDTF]: https://github.com/ProfessionalWiki/WikibaseEdtf#wikibase-edtf
-[Automated Values]: https://github.com/ProfessionalWiki/AutomatedValues#automated-values
+[Wikibase Local Media]: https://professional.wiki/en/extension/wikibase-local-media
+[Wikibase EDTF]: https://professional.wiki/en/extension/wikibase-edtf
+[Automated Values]: https://professional.wiki/en/extension/automated-values
+[Wikibase Export]: https://professional.wiki/en/extension/wikibase-export
 [Wikibase EDTF demo video]: https://www.youtube.com/watch?v=U5ndjtuDPf8
 [Automated Values demo video]: https://www.youtube.com/watch?v=BO58wulCFVU
 [ProWiki]: https://www.pro.wiki/wikibase-hosting
