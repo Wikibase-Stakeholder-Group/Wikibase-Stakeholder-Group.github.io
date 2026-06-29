@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Extensions
-last_modified_date: 2023-01-30
+last_modified_date: 2026-06-30
 description: Wikibase extensions that have been produced by group members
 parent: Projects
 nav_order: 5
@@ -34,6 +34,22 @@ Initial release
 
 Availability
 : [GitHub](https://github.com/ProfessionalWiki/WikibaseLocalMedia), Wikibase Docker distribution, [ProWiki]
+
+## Semantic Wikibase
+
+[Semantic Wikibase] makes data added as Wikibase items and properties automatically available in Semantic MediaWiki, where it can be used with all SMW functionality such as embedded visualizations, form autocompletion, and export to RDF, JSON, or CSV. [Semantic Wikibase demo video].
+
+Implemented by
+: [Professional Wiki](/members#professional-wiki)
+
+License
+: GPL 2.0
+
+Initial release
+: 2020 - [Release announcement](https://professional.wiki/en/news/semantic-wikibase-released)
+
+Availability
+: [GitHub](https://github.com/ProfessionalWiki/SemanticWikibase)
 
 ## Wikibase EDTF
 
@@ -76,7 +92,7 @@ Availability
 
 ## Wikibase RDF
 
-Wikibase RDF is a MediaWiki extension that allows defining RDF mappings for Wikibase Entities.
+[Wikibase RDF] is a MediaWiki extension that allows defining RDF mappings for Wikibase Entities.
 
 Commissioned by
 : [Rhizome](/members#rhizome) via the Wikibase Stakeholders Group
@@ -112,10 +128,34 @@ Initial release
 Availability
 : [GitHub](https://github.com/ProfessionalWiki/WikibaseExport), [ProWiki]
 
+## Wikibase Faceted Search
+
+[Wikibase Faceted Search] enhances MediaWiki's search with faceted search for Wikibase data. Filter search results by statement values via a sidebar of facets and by item type via tabs, including range queries as well as conjunctions and disjunctions. [Wikibase Faceted Search demo video].
+
+Commissioned by
+: MaRDI, via [TIB Hannover](/members#tib-hannover)
+
+Implemented by
+: [Professional Wiki](/members#professional-wiki)
+
+License
+: GPL 2.0
+
+Initial release
+: 2025 - [Release announcement](https://professional.wiki/en/news/wikibase-faceted-search-released)
+
+Availability
+: [GitHub](https://github.com/ProfessionalWiki/WikibaseFacetedSearch), [ProWiki]
+
 [Wikibase Local Media]: https://professional.wiki/en/extension/wikibase-local-media
+[Semantic Wikibase]: https://professional.wiki/en/extension/semantic-wikibase
 [Wikibase EDTF]: https://professional.wiki/en/extension/wikibase-edtf
 [Automated Values]: https://professional.wiki/en/extension/automated-values
+[Wikibase RDF]: https://professional.wiki/en/extension/wikibase-rdf
 [Wikibase Export]: https://professional.wiki/en/extension/wikibase-export
+[Wikibase Faceted Search]: https://professional.wiki/en/extension/wikibase-faceted-search
+[Semantic Wikibase demo video]: https://www.youtube.com/watch?v=ovZl_ZoGkc0
 [Wikibase EDTF demo video]: https://www.youtube.com/watch?v=U5ndjtuDPf8
 [Automated Values demo video]: https://www.youtube.com/watch?v=BO58wulCFVU
+[Wikibase Faceted Search demo video]: https://www.youtube.com/watch?v=CxKWpTQBrqk
 [ProWiki]: https://www.pro.wiki/wikibase-hosting
